@@ -1,6 +1,6 @@
 ---
 name: Fulai Jin
-image: images/photo.jpg
+image: images/fulai-jin.jpg
 role: pi
 affiliation: Case Western Reserve University School of Medicine
 aliases:
