@@ -1,23 +1,48 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+# 2004
+- id: PMID: 15539461
+# 2005
+- id: PMID: 15883373
+# 2006
+- id: PMID: 16489335
+# 2007
+- id: PMID: 17450148
+# 2011
+- id: PMID: 21402921
+- id: PMID: 21925322
+- id: PMID: 22231119
+# 2012
+- id: PMID: 22684280
+- id: PMID: 22740448
+# 2013
+- id: PMID: 24141950
+# 2014
+- id: PMID: 24681537
+- id: PMID: 25263596
+- id: PMID: 25486255
+# 2015
+- id: PMID: 26543175
+# 2016
+- id: PMID: 26969411
+# 2018
+- id: PMID: 29700475
+- id: PMID: 30146490
+- id: PMID: 30545854
+# 2019
+- id: PMID: 30865899
+# 2020
+- id: PMID: 32592681
+- id: PMID: 32989764
+- id: PMID: 33060578
+- id: PMID: 33257854
+# 2021
+- id: PMID: 34425882
+# 2022
+- id: PMID: 34978147
+- id: PMID: 35042897
+- id: PMID: 35788729
+- id: PMID: 35817982
+# 2023
+- id: PMID: 36427146
+- id: PMID: 36519762
+- id: PMID: 37037656
+- id: PMID: 37669939
