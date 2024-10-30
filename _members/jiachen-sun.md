@@ -1,8 +1,8 @@
 ---
 name: Jiachen Sun
 image: images/members/jiachen-sun.jpg
-role: phd
 description: PhD Student
+role: phd
 links:
   github: Enterprise-D
   email: jxs2269@case.edu
