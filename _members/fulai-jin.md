@@ -7,6 +7,7 @@ aliases:
   - F. Jin
   - F Jin 
 links:
+  email: fxj45@case.edu
   home-page: https://jinlabgenomics.com
   orcid: 0000-0003-0025-4337
 ---
