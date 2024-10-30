@@ -1,259 +1,297 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.21203/rs.3.rs-3955955/v1
-  title: Genome-wide meta-analyses of cross substance use disorders in European, African,
-    and Latino ancestry populations
+- id: pubmed:15539461
+  title: Finding new components of the target of rapamycin (TOR) signaling network
+    through chemical genetics and proteome chips.
   authors:
-  - Dongbing Lai
-  - Michael Zhang
-  - Nick Green
-  - Marco Abreu
-  - Tae-Hwi Schwantes-An
-  - Clarissa Parker
-  - Shanshan Zhang
+  - Jing Huang
+  - Heng Zhu
+  - Stephen J Haggarty
+  - David R Spring
+  - Heejun Hwang
   - Fulai Jin
-  - Anna Sun
-  - Pengyue Zhang
-  - Howard Edenberg
-  - Yunlong Liu
-  - Tatiana Foroud
-  publisher: Springer Science and Business Media LLC
-  date: '2024-07-16'
-  link: https://doi.org/g8prrq
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:34425882
-  title: INFIMA leverages multi-omics model organism data to identify effector genes
-    of human GWAS variants.
+  - Michael Snyder
+  - Stuart L Schreiber
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2004-11-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15539461
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/216b/527135/e8f42f122a64/zpq0470465220004.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:15883373
+  title: 'Insights into TOR function and rapamycin response: chemical genomic profiling
+    by using a high-density cell array method.'
   authors:
-  - Chenyang Dong
-  - Shane P Simonett
-  - Sunyoung Shin
-  - Donnie S Stapleton
-  - Kathryn L Schueler
-  - Gary A Churchill
-  - Leina Lu
-  - Xiaoxiao Liu
+  - Michael W Xie
   - Fulai Jin
-  - Yan Li
-  - Alan D Attie
-  - Mark P Keller
-  - "S\xFCnd\xFCz Kele\u015F"
-  publisher: Genome biology
-  date: '2021-08-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34425882
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s42255-020-00314-2
-  title: Single-cell lineage analysis reveals extensive multimodal transcriptional
-    control during directed beta-cell differentiation
+  - Heejun Hwang
+  - Seungmin Hwang
+  - Vikram Anand
+  - Mara C Duncan
+  - Jing Huang
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2005-05-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15883373
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/894a/1129105/1ae50823d714/zpq0080574890004.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:16489335
+  title: A pooling-deconvolution strategy for biological network elucidation.
   authors:
-  - Chen Weng
-  - Jiajia Xi
-  - Haiyan Li
-  - Jian Cui
-  - Anniya Gu
-  - Sisi Lai
-  - Konstantin Leskov
-  - Luxin Ke
   - Fulai Jin
-  - Yan Li
-  publisher: Nature Metabolism
-  date: '2020-11-30'
-  link: https://doi.org/gngmv8
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:33060578
-  title: Aberrant methylation underlies insulin gene expression in human insulinoma.
+  - Tony Hazbun
+  - Gregory A Michaud
+  - Michael Salcius
+  - Paul F Predki
+  - Stanley Fields
+  - Jing Huang
+  publisher: Nature methods
+  date: '2006-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16489335
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ed56/2803036/633f7fca0701/nihms165288f1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:17450148
+  title: A yeast two-hybrid smart-pool-array system for protein-interaction mapping.
   authors:
-  - Esra Karakose
-  - Huan Wang
-  - William Inabnet
-  - Rajesh V Thakker
-  - Steven Libutti
-  - Gustavo Fernandez-Ranvier
-  - Hyunsuk Suh
-  - Mark Stevenson
-  - Yayoi Kinoshita
-  - Michael Donovan
-  - Yevgeniy Antipin
-  - Yan Li
-  - Xiaoxiao Liu
   - Fulai Jin
-  - Peng Wang
-  - Andrew Uzilov
-  - Carmen Argmann
-  - Eric E Schadt
-  - Andrew F Stewart
-  - Donald K Scott
-  - Luca Lambertini
-  publisher: Nature communications
-  date: '2020-10-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33060578
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:32989764
-  title: 'TWO-SIGMA: A novel two-component single cell model-based association method
-    for single-cell RNA-seq data.'
+  - Larisa Avramova
+  - Jing Huang
+  - Tony Hazbun
+  publisher: Nature methods
+  date: '2007-04-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17450148
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c5a1/2771206/a0edb49c82c8/nihms-23621-f0001.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:21402921
+  title: PU.1 and C/EBP(alpha) synergistically program distinct response to NF-kappaB
+    activation through establishing monocyte specific enhancers.
   authors:
-  - Eric Van Buren
-  - Ming Hu
-  - Chen Weng
   - Fulai Jin
   - Yan Li
-  - Di Wu
-  - Yun Li
-  publisher: Genetic epidemiology
-  date: '2020-09-29'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32989764
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:32592681
-  title: Robust Hi-C Maps of Enhancer-Promoter Interactions Reveal the Function of
-    Non-coding Genome in Neural Development and Diseases.
+  - Bing Ren
+  - Rama Natarajan
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2011-03-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21402921
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6fbc/3069155/63d2ca59c00f/pnas.1017214108fig01.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:21925322
+  title: Identification of 67 histone marks and histone lysine crotonylation as a
+    new type of histone modification.
   authors:
-  - Leina Lu
-  - Xiaoxiao Liu
-  - Wei-Kai Huang
-  - "Paola Giusti-Rodr\xEDguez"
-  - Jian Cui
-  - Shanshan Zhang
-  - Wanying Xu
-  - Zhexing Wen
-  - Shufeng Ma
-  - Jonathan D Rosen
-  - Zheng Xu
-  - Cynthia F Bartels
-  - Riki Kawaguchi
-  - Ming Hu
-  - Peter C Scacheri
-  - Zhili Rong
-  - Yun Li
-  - Patrick F Sullivan
-  - Hongjun Song
-  - Guo-Li Ming
-  - Yan Li
+  - Minjia Tan
+  - Hao Luo
+  - Sangkyu Lee
   - Fulai Jin
+  - Jeong Soo Yang
+  - Emilie Montellier
+  - Thierry Buchou
+  - Zhongyi Cheng
+  - Sophie Rousseaux
+  - Nisha Rajagopal
+  - Zhike Lu
+  - Zhen Ye
+  - Qin Zhu
+  - Joanna Wysocka
+  - Yang Ye
+  - Saadi Khochbin
+  - Bing Ren
+  - Yingming Zhao
+  publisher: Cell
+  date: '2011-09-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21925322
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b56/3176443/609f39f385ba/nihms318420f1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:22231119
+  title: 'Enhancers: multi-dimensional signal integrators.'
+  authors:
+  - Fulai Jin
+  - Yan Li
+  - Bing Ren
+  - Rama Natarajan
+  publisher: Transcription
+  date: '2011-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22231119
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9c33/3265780/73801a487abb/tran0205_0226_fig001.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:22684280
+  title: CBX3 regulates efficient RNA processing genome-wide.
+  authors:
+  - Andrea Smallwood
+  - Gary C Hon
+  - Fulai Jin
+  - Ryan E Henry
+  - "Joaqu\xEDn M Espinosa"
+  - Bing Ren
+  publisher: Genome research
+  date: '2012-06-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22684280
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7eec/3409256/79f903b2040e/1426fig1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:22740448
+  title: Combined gene expression and DNA occupancy profiling identifies potential
+    therapeutic targets of t(8;21) AML.
+  authors:
+  - Miao-Chia Lo
+  - Luke F Peterson
+  - Ming Yan
+  - Xiuli Cong
+  - Fulai Jin
+  - Wei-Jong Shia
+  - Shinobu Matsuura
+  - Eun-Young Ahn
+  - Yukiko Komeno
+  - Minh Ly
+  - Hans B Ommen
+  - I-Ming Chen
+  - Peter Hokland
+  - Cheryl L Willman
+  - Bing Ren
+  - Dong-Er Zhang
+  publisher: Blood
+  date: '2012-06-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22740448
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1392/3423785/51e622a5a7be/zh89991294930002.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:24141950
+  title: A high-resolution map of the three-dimensional chromatin interactome in human
+    cells.
+  authors:
+  - Fulai Jin
+  - Yan Li
+  - Jesse R Dixon
+  - Siddarth Selvaraj
+  - Zhen Ye
+  - Ah Young Lee
+  - Chia-An Yen
+  - Anthony D Schmitt
+  - Celso A Espinoza
+  - Bing Ren
+  publisher: Nature
+  date: '2013-10-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24141950
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f229/3838900/32f1bc418b6b/nihms522588f1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:24681537
+  title: Lysine 2-hydroxyisobutyrylation is a widely distributed active histone mark.
+  authors:
+  - Lunzhi Dai
+  - Chao Peng
+  - Emilie Montellier
+  - Zhike Lu
+  - Yue Chen
+  - Haruhiko Ishii
+  - Alexandra Debernardi
+  - Thierry Buchou
+  - Sophie Rousseaux
+  - Fulai Jin
+  - Benjamin R Sabari
+  - Zhiyou Deng
+  - C David Allis
+  - Bing Ren
+  - Saadi Khochbin
+  - Yingming Zhao
+  publisher: Nature chemical biology
+  date: '2014-03-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24681537
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnchembio.1497/MediaObjects/41589_2014_Article_BFnchembio1497_Fig1_HTML.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:25263596
+  title: 5mC oxidation by Tet2 modulates enhancer activity and timing of transcriptome
+    reprogramming during differentiation.
+  authors:
+  - Gary C Hon
+  - Chun-Xiao Song
+  - Tingting Du
+  - Fulai Jin
+  - Siddarth Selvaraj
+  - Ah Young Lee
+  - Chia-An Yen
+  - Zhen Ye
+  - Shi-Qing Mao
+  - Bang-An Wang
+  - Samantha Kuan
+  - Lee E Edsall
+  - Boxuan Simen Zhao
+  - Guo-Liang Xu
+  - Chuan He
+  - Bing Ren
   publisher: Molecular cell
-  date: '2020-06-26'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32592681
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:30865899
-  title: "Single-Cell Heterogeneity Analysis and CRISPR Screen Identify Key \u03B2\
-    -Cell-Specific Disease Genes."
+  date: '2014-09-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25263596
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c156/4319980/66ac31c7285f/nihms632529f7.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:25486255
+  title: CRISPR reveals a distal super-enhancer required for Sox2 expression in mouse
+    embryonic stem cells.
   authors:
-  - Zhou Fang
-  - Chen Weng
-  - Haiyan Li
-  - Ran Tao
-  - Weihua Mai
-  - Xiaoxiao Liu
-  - Leina Lu
-  - Sisi Lai
-  - Qing Duan
-  - Carlos Alvarez
-  - Peter Arvan
-  - Anthony Wynshaw-Boris
-  - Yun Li
-  - Yanxin Pei
-  - Fulai Jin
   - Yan Li
-  publisher: Cell reports
-  date: '2019-03-12'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30865899
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:30545854
-  title: Integrative functional genomic analysis of human brain development and neuropsychiatric
-    risks.
-  authors:
-  - Mingfeng Li
-  - Gabriel Santpere
-  - Yuka Imamura Kawasawa
-  - Oleg V Evgrafov
-  - Forrest O Gulden
-  - Sirisha Pochareddy
-  - Susan M Sunkin
-  - Zhen Li
-  - Yurae Shin
-  - Ying Zhu
-  - "Andr\xE9 M M Sousa"
-  - Donna M Werling
-  - Robert R Kitchen
-  - Hyo Jung Kang
-  - Mihovil Pletikos
-  - Jinmyung Choi
-  - Sydney Muchnik
-  - Xuming Xu
-  - Daifeng Wang
-  - Belen Lorente-Galdos
-  - Shuang Liu
-  - "Paola Giusti-Rodr\xEDguez"
-  - Hyejung Won
-  - Christiaan A de Leeuw
-  - "Antonio F Pardi\xF1as"
-  - Ming Hu
+  - Chloe M Rivera
+  - Haruhiko Ishii
   - Fulai Jin
-  - Yun Li
-  - Michael J Owen
-  - Michael C O'Donovan
-  - James T R Walters
-  - Danielle Posthuma
-  - Mark A Reimers
-  - Pat Levitt
-  - Daniel R Weinberger
-  - Thomas M Hyde
-  - Joel E Kleinman
-  - Daniel H Geschwind
-  - Michael J Hawrylycz
-  - Matthew W State
-  - Stephan J Sanders
+  - Siddarth Selvaraj
+  - Ah Young Lee
+  - Jesse R Dixon
+  - Bing Ren
+  publisher: PloS one
+  date: '2014-12-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25486255
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e637/4259346/924ad526b0f3/pone.0114485.g005.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:26543175
+  title: A hidden Markov random field-based Bayesian method for the detection of long-range
+    chromosomal interactions in Hi-C data.
+  authors:
+  - Zheng Xu
+  - Guosheng Zhang
+  - Fulai Jin
+  - Mengjie Chen
+  - Terrence S Furey
   - Patrick F Sullivan
-  - Mark B Gerstein
-  - Ed S Lein
-  - James A Knowles
-  - Nenad Sestan
-  publisher: Science (New York, N.Y.)
-  date: '2018-12-14'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30545854
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:30146490
-  title: Chemical Screening Identifies Enhancers of Mutant Oligodendrocyte Survival
-    and Unmasks a Distinct Pathological Phase in Pelizaeus-Merzbacher Disease.
+  - Zhaohui Qin
+  - Ming Hu
+  - Yun Li
+  publisher: Bioinformatics (Oxford, England)
+  date: '2015-11-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26543175
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f497/6280722/58aa9d1ba241/btv650f1p.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:26969411
+  title: 'HiView: an integrative genome browser to leverage Hi-C results for the interpretation
+    of GWAS variants.'
   authors:
-  - Matthew S Elitt
-  - H Elizabeth Shick
-  - Mayur Madhavan
-  - Kevin C Allan
-  - Benjamin L L Clayton
-  - Chen Weng
-  - Tyler E Miller
-  - Daniel C Factor
-  - Lilianne Barbar
-  - Baraa S Nawash
-  - Zachary S Nevin
-  - Angela M Lager
-  - Yan Li
+  - Zheng Xu
+  - Guosheng Zhang
+  - Qing Duan
+  - Shengjie Chai
+  - Baqun Zhang
+  - Cong Wu
   - Fulai Jin
-  - Drew J Adams
-  - Paul J Tesar
-  publisher: Stem cell reports
-  date: '2018-08-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30146490
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:29700475
+  - Feng Yue
+  - Yun Li
+  - Ming Hu
+  publisher: BMC research notes
+  date: '2016-03-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26969411
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d820/4788823/3bdf544558e6/13104_2016_1947_Fig1_HTML.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:29700475
   title: Genome-wide association analyses identify 44 risk variants and refine the
     genetic architecture of major depression.
   authors:
@@ -476,300 +514,239 @@
   publisher: Nature genetics
   date: '2018-04-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29700475
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:26969411
-  title: 'HiView: an integrative genome browser to leverage Hi-C results for the interpretation
-    of GWAS variants.'
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8c9a/5934326/e0ad21ea11c2/nihms943355f4.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:30146490
+  title: Chemical Screening Identifies Enhancers of Mutant Oligodendrocyte Survival
+    and Unmasks a Distinct Pathological Phase in Pelizaeus-Merzbacher Disease.
   authors:
-  - Zheng Xu
-  - Guosheng Zhang
-  - Qing Duan
-  - Shengjie Chai
-  - Baqun Zhang
-  - Cong Wu
+  - Matthew S Elitt
+  - H Elizabeth Shick
+  - Mayur Madhavan
+  - Kevin C Allan
+  - Benjamin L L Clayton
+  - Chen Weng
+  - Tyler E Miller
+  - Daniel C Factor
+  - Lilianne Barbar
+  - Baraa S Nawash
+  - Zachary S Nevin
+  - Angela M Lager
+  - Yan Li
   - Fulai Jin
-  - Feng Yue
-  - Yun Li
+  - Drew J Adams
+  - Paul J Tesar
+  publisher: Stem cell reports
+  date: '2018-08-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30146490
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3008/6135742/f7f9e7202bc6/gr2.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:30545854
+  title: Integrative functional genomic analysis of human brain development and neuropsychiatric
+    risks.
+  authors:
+  - Mingfeng Li
+  - Gabriel Santpere
+  - Yuka Imamura Kawasawa
+  - Oleg V Evgrafov
+  - Forrest O Gulden
+  - Sirisha Pochareddy
+  - Susan M Sunkin
+  - Zhen Li
+  - Yurae Shin
+  - Ying Zhu
+  - "Andr\xE9 M M Sousa"
+  - Donna M Werling
+  - Robert R Kitchen
+  - Hyo Jung Kang
+  - Mihovil Pletikos
+  - Jinmyung Choi
+  - Sydney Muchnik
+  - Xuming Xu
+  - Daifeng Wang
+  - Belen Lorente-Galdos
+  - Shuang Liu
+  - "Paola Giusti-Rodr\xEDguez"
+  - Hyejung Won
+  - Christiaan A de Leeuw
+  - "Antonio F Pardi\xF1as"
   - Ming Hu
-  publisher: BMC research notes
-  date: '2016-03-11'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/26969411
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:26543175
-  title: A hidden Markov random field-based Bayesian method for the detection of long-range
-    chromosomal interactions in Hi-C data.
-  authors:
-  - Zheng Xu
-  - Guosheng Zhang
   - Fulai Jin
-  - Mengjie Chen
-  - Terrence S Furey
+  - Yun Li
+  - Michael J Owen
+  - Michael C O'Donovan
+  - James T R Walters
+  - Danielle Posthuma
+  - Mark A Reimers
+  - Pat Levitt
+  - Daniel R Weinberger
+  - Thomas M Hyde
+  - Joel E Kleinman
+  - Daniel H Geschwind
+  - Michael J Hawrylycz
+  - Matthew W State
+  - Stephan J Sanders
   - Patrick F Sullivan
-  - Zhaohui Qin
-  - Ming Hu
+  - Mark B Gerstein
+  - Ed S Lein
+  - James A Knowles
+  - Nenad Sestan
+  publisher: Science (New York, N.Y.)
+  date: '2018-12-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30545854
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f3a1/6413317/aaa75a31eee0/nihms-1015650-f0008.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:30865899
+  title: "Single-Cell Heterogeneity Analysis and CRISPR Screen Identify Key \u03B2\
+    -Cell-Specific Disease Genes."
+  authors:
+  - Zhou Fang
+  - Chen Weng
+  - Haiyan Li
+  - Ran Tao
+  - Weihua Mai
+  - Xiaoxiao Liu
+  - Leina Lu
+  - Sisi Lai
+  - Qing Duan
+  - Carlos Alvarez
+  - Peter Arvan
+  - Anthony Wynshaw-Boris
   - Yun Li
-  publisher: Bioinformatics (Oxford, England)
-  date: '2015-11-04'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/26543175
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:25486255
-  title: CRISPR reveals a distal super-enhancer required for Sox2 expression in mouse
-    embryonic stem cells.
-  authors:
+  - Yanxin Pei
+  - Fulai Jin
   - Yan Li
-  - Chloe M Rivera
-  - Haruhiko Ishii
-  - Fulai Jin
-  - Siddarth Selvaraj
-  - Ah Young Lee
-  - Jesse R Dixon
-  - Bing Ren
-  publisher: PloS one
-  date: '2014-12-08'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25486255
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:25263596
-  title: 5mC oxidation by Tet2 modulates enhancer activity and timing of transcriptome
-    reprogramming during differentiation.
+  publisher: Cell reports
+  date: '2019-03-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30865899
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9adf/6573026/6a2747fa425a/nihms-1027273-f0002.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:32592681
+  title: Robust Hi-C Maps of Enhancer-Promoter Interactions Reveal the Function of
+    Non-coding Genome in Neural Development and Diseases.
   authors:
-  - Gary C Hon
-  - Chun-Xiao Song
-  - Tingting Du
+  - Leina Lu
+  - Xiaoxiao Liu
+  - Wei-Kai Huang
+  - "Paola Giusti-Rodr\xEDguez"
+  - Jian Cui
+  - Shanshan Zhang
+  - Wanying Xu
+  - Zhexing Wen
+  - Shufeng Ma
+  - Jonathan D Rosen
+  - Zheng Xu
+  - Cynthia F Bartels
+  - Riki Kawaguchi
+  - Ming Hu
+  - Peter C Scacheri
+  - Zhili Rong
+  - Yun Li
+  - Patrick F Sullivan
+  - Hongjun Song
+  - Guo-Li Ming
+  - Yan Li
   - Fulai Jin
-  - Siddarth Selvaraj
-  - Ah Young Lee
-  - Chia-An Yen
-  - Zhen Ye
-  - Shi-Qing Mao
-  - Bang-An Wang
-  - Samantha Kuan
-  - Lee E Edsall
-  - Boxuan Simen Zhao
-  - Guo-Liang Xu
-  - Chuan He
-  - Bing Ren
   publisher: Molecular cell
-  date: '2014-09-25'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25263596
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:24681537
-  title: Lysine 2-hydroxyisobutyrylation is a widely distributed active histone mark.
+  date: '2020-06-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32592681
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0335/7415676/f4906492c657/nihms-1604039-f0002.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:32989764
+  title: 'TWO-SIGMA: A novel two-component single cell model-based association method
+    for single-cell RNA-seq data.'
   authors:
-  - Lunzhi Dai
-  - Chao Peng
-  - Emilie Montellier
-  - Zhike Lu
-  - Yue Chen
-  - Haruhiko Ishii
-  - Alexandra Debernardi
-  - Thierry Buchou
-  - Sophie Rousseaux
-  - Fulai Jin
-  - Benjamin R Sabari
-  - Zhiyou Deng
-  - C David Allis
-  - Bing Ren
-  - Saadi Khochbin
-  - Yingming Zhao
-  publisher: Nature chemical biology
-  date: '2014-03-30'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24681537
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:24141950
-  title: A high-resolution map of the three-dimensional chromatin interactome in human
-    cells.
-  authors:
+  - Eric Van Buren
+  - Ming Hu
+  - Chen Weng
   - Fulai Jin
   - Yan Li
-  - Jesse R Dixon
-  - Siddarth Selvaraj
-  - Zhen Ye
-  - Ah Young Lee
-  - Chia-An Yen
-  - Anthony D Schmitt
-  - Celso A Espinoza
-  - Bing Ren
-  publisher: Nature
-  date: '2013-10-20'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24141950
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:22740448
-  title: Combined gene expression and DNA occupancy profiling identifies potential
-    therapeutic targets of t(8;21) AML.
+  - Di Wu
+  - Yun Li
+  publisher: Genetic epidemiology
+  date: '2020-09-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32989764
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/550f/8570615/8b686e93d48a/nihms-1640768-f0002.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:33060578
+  title: Aberrant methylation underlies insulin gene expression in human insulinoma.
   authors:
-  - Miao-Chia Lo
-  - Luke F Peterson
-  - Ming Yan
-  - Xiuli Cong
+  - Esra Karakose
+  - Huan Wang
+  - William Inabnet
+  - Rajesh V Thakker
+  - Steven Libutti
+  - Gustavo Fernandez-Ranvier
+  - Hyunsuk Suh
+  - Mark Stevenson
+  - Yayoi Kinoshita
+  - Michael Donovan
+  - Yevgeniy Antipin
+  - Yan Li
+  - Xiaoxiao Liu
   - Fulai Jin
-  - Wei-Jong Shia
-  - Shinobu Matsuura
-  - Eun-Young Ahn
-  - Yukiko Komeno
-  - Minh Ly
-  - Hans B Ommen
-  - I-Ming Chen
-  - Peter Hokland
-  - Cheryl L Willman
-  - Bing Ren
-  - Dong-Er Zhang
-  publisher: Blood
-  date: '2012-06-26'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22740448
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:22684280
-  title: CBX3 regulates efficient RNA processing genome-wide.
+  - Peng Wang
+  - Andrew Uzilov
+  - Carmen Argmann
+  - Eric E Schadt
+  - Andrew F Stewart
+  - Donald K Scott
+  - Luca Lambertini
+  publisher: Nature communications
+  date: '2020-10-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33060578
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/17b2/7566641/2de6f1d819a5/41467_2020_18839_Fig7_HTML.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:33257854
+  title: Single-cell lineage analysis reveals extensive multimodal transcriptional
+    control during directed beta-cell differentiation.
   authors:
-  - Andrea Smallwood
-  - Gary C Hon
-  - Fulai Jin
-  - Ryan E Henry
-  - "Joaqu\xEDn M Espinosa"
-  - Bing Ren
-  publisher: Genome research
-  date: '2012-06-08'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22684280
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:22231119
-  title: 'Enhancers: multi-dimensional signal integrators.'
-  authors:
+  - Chen Weng
+  - Jiajia Xi
+  - Haiyan Li
+  - Jian Cui
+  - Anniya Gu
+  - Sisi Lai
+  - Konstantin Leskov
+  - Luxin Ke
   - Fulai Jin
   - Yan Li
-  - Bing Ren
-  - Rama Natarajan
-  publisher: Transcription
-  date: '2011-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22231119
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:21925322
-  title: Identification of 67 histone marks and histone lysine crotonylation as a
-    new type of histone modification.
+  publisher: Nature metabolism
+  date: '2020-11-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33257854
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ee29/7744443/6b1f8df6382b/nihms-1640257-f0001.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:34425882
+  title: INFIMA leverages multi-omics model organism data to identify effector genes
+    of human GWAS variants.
   authors:
-  - Minjia Tan
-  - Hao Luo
-  - Sangkyu Lee
-  - Fulai Jin
-  - Jeong Soo Yang
-  - Emilie Montellier
-  - Thierry Buchou
-  - Zhongyi Cheng
-  - Sophie Rousseaux
-  - Nisha Rajagopal
-  - Zhike Lu
-  - Zhen Ye
-  - Qin Zhu
-  - Joanna Wysocka
-  - Yang Ye
-  - Saadi Khochbin
-  - Bing Ren
-  - Yingming Zhao
-  publisher: Cell
-  date: '2011-09-16'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/21925322
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:21402921
-  title: PU.1 and C/EBP(alpha) synergistically program distinct response to NF-kappaB
-    activation through establishing monocyte specific enhancers.
-  authors:
+  - Chenyang Dong
+  - Shane P Simonett
+  - Sunyoung Shin
+  - Donnie S Stapleton
+  - Kathryn L Schueler
+  - Gary A Churchill
+  - Leina Lu
+  - Xiaoxiao Liu
   - Fulai Jin
   - Yan Li
-  - Bing Ren
-  - Rama Natarajan
-  publisher: Proceedings of the National Academy of Sciences of the United States
-    of America
-  date: '2011-03-14'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/21402921
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:17450148
-  title: A yeast two-hybrid smart-pool-array system for protein-interaction mapping.
-  authors:
-  - Fulai Jin
-  - Larisa Avramova
-  - Jing Huang
-  - Tony Hazbun
-  publisher: Nature methods
-  date: '2007-04-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/17450148
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:16489335
-  title: A pooling-deconvolution strategy for biological network elucidation.
-  authors:
-  - Fulai Jin
-  - Tony Hazbun
-  - Gregory A Michaud
-  - Michael Salcius
-  - Paul F Predki
-  - Stanley Fields
-  - Jing Huang
-  publisher: Nature methods
-  date: '2006-03-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/16489335
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:15883373
-  title: 'Insights into TOR function and rapamycin response: chemical genomic profiling
-    by using a high-density cell array method.'
-  authors:
-  - Michael W Xie
-  - Fulai Jin
-  - Heejun Hwang
-  - Seungmin Hwang
-  - Vikram Anand
-  - Mara C Duncan
-  - Jing Huang
-  publisher: Proceedings of the National Academy of Sciences of the United States
-    of America
-  date: '2005-05-09'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/15883373
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:15539461
-  title: Finding new components of the target of rapamycin (TOR) signaling network
-    through chemical genetics and proteome chips.
-  authors:
-  - Jing Huang
-  - Heng Zhu
-  - Stephen J Haggarty
-  - David R Spring
-  - Heejun Hwang
-  - Fulai Jin
-  - Michael Snyder
-  - Stuart L Schreiber
-  publisher: Proceedings of the National Academy of Sciences of the United States
-    of America
-  date: '2004-11-11'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/15539461
-  orcid: 0000-0003-0025-4337
-  plugin: orcid.py
-  file: orcid.yaml
+  - Alan D Attie
+  - Mark P Keller
+  - "S\xFCnd\xFCz Kele\u015F"
+  publisher: Genome biology
+  date: '2021-08-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34425882
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ecd4/8381555/a9ff0e8d5ddf/13059_2021_2450_Fig1_HTML.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:34978147
   title: "Identifying differential regulatory control of APOE \u025B4 on African versus\
     \ European haplotypes as potential therapeutic targets."
@@ -798,6 +775,7 @@
   publisher: 'Alzheimer''s & dementia : the journal of the Alzheimer''s Association'
   date: '2022-01-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34978147
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7816/9250552/13ecca2b0df8/nihms-1753640-f0003.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:35042897
@@ -825,6 +803,7 @@
   publisher: Nature communications
   date: '2022-01-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35042897
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/747f/8766474/d40fc4e6558d/41467_2022_28019_Fig2_HTML.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:35788729
@@ -860,6 +839,7 @@
   publisher: PLoS genetics
   date: '2022-07-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35788729
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2d0c/9286282/4981059c03ab/pgen.1009977.g004.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:35817982
@@ -883,6 +863,7 @@
   publisher: Nature genetics
   date: '2022-07-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35817982
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a86f/10082397/5385b941762d/nihms-1880954-f0009.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36427146
@@ -893,6 +874,7 @@
   publisher: Methods in molecular biology (Clifton, N.J.)
   date: '2023-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36427146
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3f0d/10040274/c23e62967fc6/nihms-1880219-f0001.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36519762
@@ -912,6 +894,7 @@
   publisher: Human molecular genetics
   date: '2023-05-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36519762
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d208/10162433/96e772b6f453/ddac300f7.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:37037656
@@ -941,6 +924,7 @@
   publisher: 'Alzheimer''s & dementia : the journal of the Alzheimer''s Association'
   date: '2023-04-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37037656
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d753/10529851/3ca1022c6cc7/nihms-1914287-f0001.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:37669939
@@ -968,5 +952,28 @@
   publisher: Nature communications
   date: '2023-09-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37669939
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/54f9/10480445/6280e66e3cd8/41467_2023_41228_Fig6_HTML.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39070649
+  title: Genome-wide meta-analyses of cross substance use disorders in European, African,
+    and Latino ancestry populations.
+  authors:
+  - Dongbing Lai
+  - Michael Zhang
+  - Nick Green
+  - Marco Abreu
+  - Tae-Hwi Schwantes-An
+  - Clarissa Parker
+  - Shanshan Zhang
+  - Fulai Jin
+  - Anna Sun
+  - Pengyue Zhang
+  - Howard Edenberg
+  - Yunlong Liu
+  - Tatiana Foroud
+  publisher: Research square
+  date: '2024-07-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39070649
   plugin: sources.py
   file: sources.yaml
