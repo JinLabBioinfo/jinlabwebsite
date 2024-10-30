@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Single-cell lineage analysis reveals extensive multimodal transcriptional control during directed beta-cell differentiation" style="rich" %}
 
 {% include section.html %}
 
