@@ -1,64 +1,88 @@
 # 2004
 - id: pubmed:15539461
+  remove: true
 
 # 2005
 - id: pubmed:15883373
+  remove: true
 
 # 2006
 - id: pubmed:16489335
-
+  remove: true
+  
 # 2007
 - id: pubmed:17450148
+  remove: true
 
 # 2011
 - id: pubmed:21402921
+  remove: true
 
 - id: pubmed:21925322
-
+  remove: true
+  
 - id: pubmed:22231119
-
+  remove: true
+  
 # 2012
 - id: pubmed:22684280
+  remove: true
 
 - id: pubmed:22740448
+  remove: true
 
 # 2013
 - id: pubmed:24141950
+  remove: true
 
 # 2014
 - id: pubmed:24681537
+  remove: true
 
 - id: pubmed:25263596
+  remove: true
 
 - id: pubmed:25486255
+  remove: true
 
 # 2015
 - id: pubmed:26543175
+  remove: true
 
 # 2016
 - id: pubmed:26969411
+  remove: true
 
 # 2018
 - id: pubmed:29700475
+  remove: true
 
 - id: pubmed:30146490
+  remove: true
 
 - id: pubmed:30545854
+  remove: true
 
 # 2019
 - id: pubmed:30865899
+  remove: true
 
 # 2020
 - id: pubmed:32592681
+  remove: true
 
 - id: pubmed:32989764
+  remove: true
 
 - id: pubmed:33060578
+  remove: true
 
 - id: pubmed:33257854
+  remove: true
 
 # 2021
 - id: pubmed:34425882
+  remove: true
 
 # 2022
 - id: pubmed:34978147
