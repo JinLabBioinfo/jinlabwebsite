@@ -1,21 +1,21 @@
 ---
-name: Fulai Jin
+name: Fulai Jin, PhD
 image: images/members/fulai-jin.jpg
 role: pi
 affiliation: Case Western Reserve University School of Medicine
 aliases:
+  - Fulai Jin
   - F. Jin
-  - F Jin 
+  - F Jin
 links:
   email: fxj45@case.edu
   home-page: https://jinlabgenomics.com
   orcid: 0000-0003-0025-4337
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Associate Professor, Department of Genetics and Genome Sciences, School of Medicine
+Associate Professor, Department of Computer and Data Sciences, Case School of Engineering
+Co-Leader, Cancer Genomics and Epigenomics Program, Case Comprehensive Cancer Center
+Associate Professor, Department of Population and Quantitative Health Sciences, School of Medicine
+
+Dr. Fulai Jin has an interdisciplinary background and formal training in molecular biology, computer sciences, and statistics. He got bachelor’s degrees in biology and computer sciences from University of Science and Technology of China (USTC), and then PhD degree in Molecular and Medical Pharmacology from University of California, Los Angeles (UCLA). In graduate school, Dr. Jin worked in the field of chemical biology performing screens for small molecules or drug target genes using various functional genomic approaches. After graduation, Dr. Jin did his postdoc training at Ludwig Institute for Cancer Research and switched to the field of genomics, epigenetics, and transcription regulation. Dr. Jin joined the CWRU faculty in 2015 and is now an Associate Professor in the Department of Genetics and Genome Sciences.
