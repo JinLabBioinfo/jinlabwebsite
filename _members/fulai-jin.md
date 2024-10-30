@@ -1,14 +1,14 @@
 ---
-name: Jane Smith
+name: Fulai Jin
 image: images/photo.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: Case Western Reserve University School of Medicine
 aliases:
-  - J. Smith
-  - J Smith
+  - F. Jin
+  - F Jin 
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://jinlabgenomics.com
+  orcid: 0000-0003-0025-4337
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
