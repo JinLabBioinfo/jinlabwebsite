@@ -1,10 +1,9 @@
 ---
-name: John Doe
-image: images/photo.jpg
+name: Jiachen Sun
+image: images/members/jiachen-sun.jpg
 role: phd
-group: alum
 links:
-  github: john-doe
+  github: Enterprise-D
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
