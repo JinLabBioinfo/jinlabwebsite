@@ -1,82 +1,114 @@
 # 2004
 - id: pubmed:15539461
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/216b/527135/e8f42f122a64/zpq0470465220004.jpg
 
 # 2005
 - id: pubmed:15883373
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/894a/1129105/1ae50823d714/zpq0080574890004.jpg
 
 # 2006
 - id: pubmed:16489335
-  
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ed56/2803036/633f7fca0701/nihms165288f1.jpg
+
 # 2007
 - id: pubmed:17450148
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c5a1/2771206/a0edb49c82c8/nihms-23621-f0001.jpg
 
 # 2011
 - id: pubmed:21402921
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6fbc/3069155/63d2ca59c00f/pnas.1017214108fig01.jpg
 
 - id: pubmed:21925322
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b56/3176443/609f39f385ba/nihms318420f1.jpg
   
 - id: pubmed:22231119
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9c33/3265780/73801a487abb/tran0205_0226_fig001.jpg
   
 # 2012
 - id: pubmed:22684280
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7eec/3409256/79f903b2040e/1426fig1.jpg
 
 - id: pubmed:22740448
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1392/3423785/51e622a5a7be/zh89991294930002.jpg
 
 # 2013
 - id: pubmed:24141950
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f229/3838900/32f1bc418b6b/nihms522588f1.jpg
 
 # 2014
 - id: pubmed:24681537
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnchembio.1497/MediaObjects/41589_2014_Article_BFnchembio1497_Fig1_HTML.jpg
 
 - id: pubmed:25263596
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c156/4319980/66ac31c7285f/nihms632529f7.jpg
 
 - id: pubmed:25486255
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e637/4259346/924ad526b0f3/pone.0114485.g005.jpg
 
 # 2015
 - id: pubmed:26543175
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f497/6280722/58aa9d1ba241/btv650f1p.jpg
 
 # 2016
 - id: pubmed:26969411
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d820/4788823/3bdf544558e6/13104_2016_1947_Fig1_HTML.jpg
 
 # 2018
 - id: pubmed:29700475
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8c9a/5934326/e0ad21ea11c2/nihms943355f4.jpg
 
 - id: pubmed:30146490
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3008/6135742/f7f9e7202bc6/gr2.jpg
 
 - id: pubmed:30545854
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f3a1/6413317/aaa75a31eee0/nihms-1015650-f0008.jpg
 
 # 2019
 - id: pubmed:30865899
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9adf/6573026/6a2747fa425a/nihms-1027273-f0002.jpg
 
 # 2020
 - id: pubmed:32592681
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0335/7415676/f4906492c657/nihms-1604039-f0002.jpg
 
 - id: pubmed:32989764
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/550f/8570615/8b686e93d48a/nihms-1640768-f0002.jpg
 
 - id: pubmed:33060578
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/17b2/7566641/2de6f1d819a5/41467_2020_18839_Fig7_HTML.jpg
 
 - id: pubmed:33257854
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ee29/7744443/6b1f8df6382b/nihms-1640257-f0001.jpg
 
 # 2021
 - id: pubmed:34425882
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ecd4/8381555/a9ff0e8d5ddf/13059_2021_2450_Fig1_HTML.jpg
 
 # 2022
 - id: pubmed:34978147
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7816/9250552/13ecca2b0df8/nihms-1753640-f0003.jpg
 
 - id: pubmed:35042897
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/747f/8766474/d40fc4e6558d/41467_2022_28019_Fig2_HTML.jpg
 
 - id: pubmed:35788729
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2d0c/9286282/4981059c03ab/pgen.1009977.g004.jpg
 
 - id: pubmed:35817982
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a86f/10082397/5385b941762d/nihms-1880954-f0009.jpg
 
 # 2023
 - id: pubmed:36427146
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3f0d/10040274/c23e62967fc6/nihms-1880219-f0001.jpg
 
 - id: pubmed:36519762
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d208/10162433/96e772b6f453/ddac300f7.jpg
 
 - id: pubmed:37037656
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d753/10529851/3ca1022c6cc7/nihms-1914287-f0001.jpg
 
 - id: pubmed:37669939
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/54f9/10480445/6280e66e3cd8/41467_2023_41228_Fig6_HTML.jpg
 
 # 2024
 - id: pubmed:39070649
