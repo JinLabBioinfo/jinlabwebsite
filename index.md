@@ -11,7 +11,15 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Transcription regulation
+
+3D genome architecture
+
+Epigenetics and epigenomics
+
+Single-cell genomics
+
+Computational and systems biology
 
 {%
   include button.html
