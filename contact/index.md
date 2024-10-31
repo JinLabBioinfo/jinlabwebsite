@@ -2,7 +2,7 @@
 title: Contact
 nav:
   order: 5
-  tooltip: Reach us for opportunities
+  tooltip: Inquiries and opportunities
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
