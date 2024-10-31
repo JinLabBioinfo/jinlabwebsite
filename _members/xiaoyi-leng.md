@@ -9,5 +9,5 @@ aliases:
  - X Leng
 links:
   email: xxl1332@case.edu
-  github:lengaa
+  github: lengaa
 ---
