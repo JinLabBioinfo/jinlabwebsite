@@ -4,6 +4,7 @@ image: images/members/xiuyuan-lang.jpg
 description: PhD Student
 role: phd
 aliases:
+ - Xiuyuan Lang
  - X. Lang
  - X Lang
 links:
