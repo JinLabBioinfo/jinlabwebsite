@@ -1,5 +1,5 @@
 ---
-name: Xiuyuan Lang
+name: Xiuyuan Lang, MS
 image: images/members/xiuyuan-lang.jpg
 description: PhD Student (Genetics)
 role: phd
