@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Resources
 
-{% include tags.html tags="package, website, dataset, utility" %}
-
 {% include search-info.html %}
 
 {% include section.html %}
