@@ -12,14 +12,14 @@ An engaging 1-3 sentence description of your lab.
 {%
   include feature.html
   image="images/transcriptional-regulation.png"
-  title="Transcriptional regulation"
+  title="Transcriptional Regulation"
   text=text
 %}
 
 {%
   include feature.html
   image="images/epigenetics-and-epigenomics.png"
-  title="Epigenetics and epigenomics"
+  title="Epigenetics and Epigenomics"
   text=text
   flip=true
 %}
@@ -27,14 +27,14 @@ An engaging 1-3 sentence description of your lab.
 {%
   include feature.html
   image="images/3d-genome-architecture.png"
-  title="3D genome architecture"
+  title="3D Genome Architecture"
   text=text
 %}
 
 {%
   include feature.html
   image="images/single-cell-genomics.png"
-  title="Single-cell genomics"
+  title="Single-cell Genomics"
   text=text
   flip=true
 %}
@@ -42,6 +42,6 @@ An engaging 1-3 sentence description of your lab.
 {%
   include feature.html
   image="images/computational-and-systems-biology.png"
-  title="Computational and systems biology"
+  title="Computational and Systems Biology"
   text=text
 %}
