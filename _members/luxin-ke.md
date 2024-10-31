@@ -1,7 +1,7 @@
 ---
 name: Luxin Ke, MS
 image: images/members/luxin-ke.jpg
-description: PhD Candidate (Genetics)
+description: PhD Candidate (Genetics and Genome Sciences)
 role: phd
 aliases:
  - Luxin Ke
