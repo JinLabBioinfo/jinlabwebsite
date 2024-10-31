@@ -4,7 +4,6 @@ image: images/members/peinan-hu.jpg
 description: PhD Student
 role: phd
 aliases:
- - Peinan Hu
  - P. Hu
  - P Hu
 links:
