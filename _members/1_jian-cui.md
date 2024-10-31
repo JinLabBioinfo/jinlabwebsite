@@ -1,6 +1,6 @@
 ---
 name: Jian Cui, PhD
-image: images/members/jian-cui.jpg
+image: images/members/jian-cui.jpeg
 description: Postdoctoral Fellow
 role: postdoc
 aliases:
