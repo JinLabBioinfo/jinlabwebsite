@@ -30,29 +30,29 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   link="https://maps.app.goo.gl/ckvQA2CJMUUAbAr66"
 %}
 
-# {% include section.html %}
+{% include section.html %}
 
-# {% capture col1 %}
+{% capture col1 %}
 
-# {%
-#   include figure.html
-#   image="images/photo.jpg"
-#   caption="Lorem ipsum"
-# %}
+{%
+  include figure.html
+  image="images/brb1.jpg"
+  caption="Biomedical Research Building 1"
+%}
 
-# {% endcapture %}
+{% endcapture %}
 
-# {% capture col2 %}
+{% capture col2 %}
 
-# {%
-#   include figure.html
-#   image="images/photo.jpg"
-#   caption="Lorem ipsum"
-# %}
+{%
+  include figure.html
+  image="images/brb2.jpg"
+  caption="Biomedical Research Building 2"
+%}
 
-# {% endcapture %}
+{% endcapture %}
 
-# {% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
 
