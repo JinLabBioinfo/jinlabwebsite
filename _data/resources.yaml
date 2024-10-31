@@ -1,47 +1,48 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
+- title: Va3DE
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://github.com/JinLabBioinfo/Va3DE
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - package
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
+- title: SCORE
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://github.com/JinLabBioinfo/SCORE
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - package
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: HiCorr
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://github.com/JinLabBioinfo/HiCorr
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
+    - package
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: RePACT
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://github.com/JinLabBioinfo/RePACT
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - package
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: DeepLoop
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://github.com/JinLabBioinfo/DeepLoop
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - package
+
+- title: LineageTreeBuilder
+  image: images/photo.jpg
+  link: https://github.com/JinLabBioinfo/LineageTreeBuilder
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - utility
+
