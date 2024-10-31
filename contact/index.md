@@ -36,8 +36,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/brb1.jpg"
-  caption="Biomedical Research Building 1"
+  image="images/cwru1.jpg"
+  caption="Sunset at CWRU campus (Jiachen Sun)"
 %}
 
 {% endcapture %}
@@ -46,8 +46,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/brb2.jpg"
-  caption="Biomedical Research Building 2"
+  image="images/cwru2.jpg"
+  caption="Sunrise on Biomedical Research Building (Jiachen Sun)"
 %}
 
 {% endcapture %}
