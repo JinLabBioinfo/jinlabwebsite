@@ -7,83 +7,41 @@ An engaging 1-3 sentence description of your lab.
 
 {% include section.html %}
 
-## Highlights
-
-{% capture text %}
-
- - Transcription regulation
-
- - 3D genome architecture
-
- - Epigenetics and epigenomics
-
- - Single-cell genomics
-
- - Computational and systems biology
-
-{%
-  include button.html
-  link="publications"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
+## Research Areas
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="publications"
-  title="Lab Interest"
+  title="Transcriptional regulation"
   text=text
 %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
-  include button.html
-  link="resources"
-  text="Browse our resources"
-  icon="fa-solid fa-arrow-right"
+  include feature.html
+  image="images/photo.jpg"
+  title="Epigenetics and epigenomics"
+  text=text
   flip=true
-  style="bare"
 %}
-
-{% endcapture %}
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
-  flip=true
-  style="bare"
+  title="3D genome architecture"
   text=text
 %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
-  include button.html
-  link="members"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
+  include feature.html
+  image="images/photo.jpg"
+  title="Single-cell genomics"
+  text=text
   flip=true
-  style="bare"
 %}
-
-{% endcapture %}
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="members"
-  title="Our Members"
+  title="Computational and systems biology"
   text=text
 %}
