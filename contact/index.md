@@ -30,8 +30,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   link="https://maps.app.goo.gl/ckvQA2CJMUUAbAr66"
 %}
 
-For experimental (wet lab) inqueries, please visit [Yan Lab](https://yanlilab.com) website for more information.
-
 {% include section.html %}
 
 {% capture col1 %}
@@ -57,5 +55,7 @@ For experimental (wet lab) inqueries, please visit [Yan Lab](https://yanlilab.co
 {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
+
+For experimental (wet lab) inqueries, please visit [Yan Lab](https://yanlilab.com) website for more information.
 
 For website maintenance, please email [Jiachen Sun](mailto:jxs2269@case.edu).
