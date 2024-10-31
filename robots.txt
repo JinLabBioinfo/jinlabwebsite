@@ -1,1 +1,1 @@
-Sitemap: http://jinlabgenomics.com/sitemap.xml
+Sitemap: https://jinlabgenomics.com/sitemap.xml
