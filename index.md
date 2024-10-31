@@ -3,7 +3,7 @@
 
 # Welcome to Jin Lab at CWRU School of Medicine
 
-An engaging 1-3 sentence description of your lab.
+
 
 {% include section.html %}
 
