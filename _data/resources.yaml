@@ -1,48 +1,49 @@
 - title: Va3DE
   image: images/photo.jpg
   link: https://github.com/JinLabBioinfo/Va3DE
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Publication not available yet.
   tags:
     - package
 
 - title: SCORE
   image: images/photo.jpg
   link: https://github.com/JinLabBioinfo/SCORE
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Publication not available yet.
   tags:
     - package
 
 - title: HiCorr
   image: images/photo.jpg
   link: https://github.com/JinLabBioinfo/HiCorr
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Robust Hi-C Maps of Enhancer-Promoter Interactions Reveal the Function of Non-coding Genome in Neural Development and Diseases
   tags:
     - package
 
 - title: RePACT
   image: images/photo.jpg
   link: https://github.com/JinLabBioinfo/RePACT
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Single-Cell Heterogeneity Analysis and CRISPR Screen Identify Key β-Cell-Specific Disease Genes
   tags:
     - package
 
 - title: DeepLoop
   image: images/photo.jpg
   link: https://github.com/JinLabBioinfo/DeepLoop
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: *DeepLoop* robustly maps chromatin interactions from sparse allele-resolved or single-cell Hi-C data at kilobase resolution
   tags:
     - package
 
 - title: LineageTreeBuilder
   image: images/photo.jpg
   link: https://github.com/JinLabBioinfo/LineageTreeBuilder
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Single-cell lineage analysis reveals extensive multimodal transcriptional control during directed beta-cell differentiation
   tags:
     - utility
+
+- title: HiView
+  image: images/photo.jpg
+  link: https://github.com/
+  description: HiView: an integrative genome browser to leverage Hi-C results for the interpretation of GWAS variants
+  tags:
+    - website
 
