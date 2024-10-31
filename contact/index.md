@@ -28,10 +28,7 @@ For experimental (wet lab) inqueries, please visit [Yan Lab](https://yanlilab.co
 {%
   include button.html
   type="address"
-  tooltip="Biomedical Research Building
-Room 621
-2109 Adelbert Road
-Cleveland, Ohio 44106-4955"
+  tooltip="Biomedical Research Building, Room 621, 2109 Adelbert Road, Cleveland, Ohio 44106-4955"
   link="https://maps.app.goo.gl/ckvQA2CJMUUAbAr66"
 %}
 
