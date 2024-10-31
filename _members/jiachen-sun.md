@@ -8,4 +8,4 @@ links:
   email: jxs2269@case.edu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Currently pursuing a Ph.D. in Systems Biology and Bioinformatics, Jiachen Sun holds an interest in single-cell multiomics, spatial genomics, machine learning, and general computational biology. Prior to his enrollment in Cleveland, he obtained a B.S. in Biological Sciences from Southern University of Science and Technology. He is a long-term fan of classical music and civil aviation.
