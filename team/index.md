@@ -36,6 +36,8 @@ Haiyan Li, Ph.D.
 
 {% include section.html %}
 
+# Gallery
+
 {% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
