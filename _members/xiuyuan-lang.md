@@ -3,6 +3,9 @@ name: Xiuyuan Lang
 image: images/members/xiuyuan-lang.jpg
 description: PhD Student
 role: phd
+aliases:
+ - X. Lang
+ - X Lang
 links:
   email: xxl1432@case.edu
 ---
