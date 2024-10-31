@@ -1,7 +1,7 @@
 ---
 name: Jiachen Sun
 image: images/members/jiachen-sun.jpg
-description: PhD Student (Systems Biology and Bioinformatics Program)
+description: PhD Student (Systems Biology and Bioinformatics)
 role: phd
 aliases:
  - Jiachen Sun
