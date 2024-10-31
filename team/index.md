@@ -44,9 +44,31 @@ Haiyan Li, PhD
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/gallery/lab_h1.jpg" %}
+{% include figure.html image="images/gallery/lab_h2.jpg" %}
+{% include figure.html image="images/gallery/lab_h3.jpg" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
+
+
+{% capture content %}
+
+{% include figure.html image="images/gallery/lab_h4.jpg" %}
+{% include figure.html image="images/gallery/lab_h5.jpg" %}
+{% include figure.html image="images/gallery/lab_h6.jpg" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
+
+
+{% capture content %}
+
+{% include figure.html image="images/gallery/lab_v1.jpg" %}
+{% include figure.html image="images/gallery/lab_v2.jpg" %}
+{% include figure.html image="images/gallery/lab_v3.jpg" %}
 
 {% endcapture %}
 
