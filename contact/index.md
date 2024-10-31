@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Please do not hesitate to contact us regarding any open positions!
+Please do not hesitate to contact us regarding open positions!
 
 {%
   include button.html
