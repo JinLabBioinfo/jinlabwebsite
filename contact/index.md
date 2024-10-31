@@ -16,20 +16,23 @@ For experimental (wet lab) queries, please visit [Yan Lab](https://yanlilab.com)
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="fxj45@case.edu"
+  link="fxj45@case.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(216) 368-1811"
+  link="+1-216-368-1811"
 %}
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="Biomedical Research Building
+Room 621
+2109 Adelbert Road
+Cleveland, Ohio 44106-4955"
+  link="https://maps.app.goo.gl/ckvQA2CJMUUAbAr66"
 %}
 
 {% include section.html %}
