@@ -1,6 +1,6 @@
 ---
 name: Ying Xie, PhD
-image: images/members/ying-xie.jpeg
+image: images/members/ying-xie.jpg
 description: Postdoctoral Fellow
 role: postdoc
 aliases:
