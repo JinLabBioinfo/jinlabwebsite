@@ -16,23 +16,23 @@ nav:
 
 ## Alumni
 
-Shanshan Zhang, Ph.D.
+Shanshan Zhang, PhD
  
-Xiaoxiao Liu, Bioinformatician
+Xiaoxiao Liu (bioinformatician)
  
-Saixian Zhang, Visiting graduate student
+Saixian Zhang (visiting graduate student)
  
-Chen Weng, Ph.D.
+Chen Weng, PhD
  
-Jiajia Xi, Ph.D. 
+Jiajia Xi, PhD 
  
-Konstantin Leskov, Ph.D.
+Konstantin Leskov, PhD
  
-Liu Wang, Ph.D. 
+Liu Wang, PhD 
  
-Zhou Fang, Ph.D. 
+Zhou Fang, PhD 
  
-Haiyan Li, Ph.D.
+Haiyan Li, PhD
 
 {% include section.html %}
 
