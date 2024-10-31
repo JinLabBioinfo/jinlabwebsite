@@ -24,7 +24,7 @@ Computational and systems biology
 {%
   include button.html
   link="publications"
-  text="See our research"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -36,7 +36,7 @@ Computational and systems biology
   include feature.html
   image="images/photo.jpg"
   link="publications"
-  title="Our Publications"
+  title="Lab Interest"
   text=text
 %}
 
