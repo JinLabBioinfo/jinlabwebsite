@@ -15,10 +15,4 @@ nav:
 
 ## Featured
 
-{% include list.html component="card" data="resources" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="resources" filter="!group" style="small" %}
+{% include list.html component="card" data="resources" %}
