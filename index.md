@@ -34,7 +34,7 @@ An engaging 1-3 sentence description of your lab.
 {%
   include feature.html
   image="images/single-cell-genomics.png"
-  title="Single-cell Genomics"
+  title="Single-Cell Genomics"
   text=text
   flip=true
 %}
