@@ -1,7 +1,7 @@
 ---
 name: Peinan Hu, MS
 image: images/members/peinan-hu.jpeg
-description: PhD Candidate (Genetics)
+description: PhD Candidate (Genetics and Genome Sciences)
 role: phd
 aliases:
  - Peinan Hu
