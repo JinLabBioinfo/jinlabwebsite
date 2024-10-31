@@ -11,8 +11,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-For experimental (wet lab) inqueries, please visit [Yan Lab](https://yanlilab.com) website for more information.
-
 {%
   include button.html
   type="email"
@@ -31,6 +29,8 @@ For experimental (wet lab) inqueries, please visit [Yan Lab](https://yanlilab.co
   tooltip="Biomedical Research Building, Room 621, 2109 Adelbert Road, Cleveland, Ohio 44106-4955"
   link="https://maps.app.goo.gl/ckvQA2CJMUUAbAr66"
 %}
+
+For experimental (wet lab) inqueries, please visit [Yan Lab](https://yanlilab.com) website for more information.
 
 {% include section.html %}
 
