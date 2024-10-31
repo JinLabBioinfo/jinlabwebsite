@@ -20,6 +20,10 @@ Dylan Plummer, PhD
 
 Wanying Xu, PhD
 
+Sisi Lai, PhD
+
+Anniya Gu, PhD
+
 Shanshan Zhang, PhD
  
 Xiaoxiao Liu (bioinformatician)
