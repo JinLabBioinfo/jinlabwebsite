@@ -1,7 +1,7 @@
 ---
 name: Xiuyuan Lang
 image: images/members/xiuyuan-lang.jpg
-description: PhD Student
+description: PhD Student (Genetics)
 role: phd
 aliases:
  - Xiuyuan Lang
