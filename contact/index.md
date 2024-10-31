@@ -56,6 +56,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html dark=true %}
 
-**For experimental (wet lab) inqueries, please visit [Li Lab](https://yanlilab.com) website for more information.**
+**For experimental (wet lab) inqueries, please visit [Li Lab](https://yanlilab.com) website.**
 
 For website maintenance, please email [Jiachen Sun](mailto:jxs2269@case.edu).
