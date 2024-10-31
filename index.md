@@ -11,15 +11,15 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Transcription regulation
+ - Transcription regulation
 
-3D genome architecture
+ - 3D genome architecture
 
-Epigenetics and epigenomics
+ - Epigenetics and epigenomics
 
-Single-cell genomics
+ - Single-cell genomics
 
-Computational and systems biology
+ - Computational and systems biology
 
 {%
   include button.html
