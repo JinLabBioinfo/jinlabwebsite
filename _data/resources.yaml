@@ -1,13 +1,13 @@
 - title: Va3DE
   image: images/photo.jpg
   link: https://github.com/JinLabBioinfo/Va3DE
-  description: Publication not available yet.
+  description: Va3DE: Variational 3D Embedding for Single-Cell Hi-C Clustering
   tags:
     - package
 
 - title: SCORE
   image: images/photo.jpg
-  link: https://github.com/JinLabBioinfo/SCORE
+  link: SCORE: Single-cell Chromatin Organization Representation and Embedding
   description: Publication not available yet.
   tags:
     - package
@@ -29,7 +29,7 @@
 - title: DeepLoop
   image: images/photo.jpg
   link: https://github.com/JinLabBioinfo/DeepLoop
-  description: *DeepLoop* robustly maps chromatin interactions from sparse allele-resolved or single-cell Hi-C data at kilobase resolution
+  description: DeepLoop robustly maps chromatin interactions from sparse allele-resolved or single-cell Hi-C data at kilobase resolution
   tags:
     - package
 
