@@ -1,6 +1,6 @@
 ---
 name: Luxin Ke, MS
-image: images/members/jiachen-sun.jpg
+image: images/members/luxin-ke.jpg
 description: PhD Candidate (Genetics)
 role: phd
 aliases:
