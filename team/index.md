@@ -20,9 +20,23 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ## Alumni
 
-Wanying Xu
-
-XXX
+Shanshan Zhang, Ph.D.
+ 
+Xiaoxiao Liu, Bioinformatician
+ 
+Saixian Zhang, Visiting graduate student
+ 
+Chen Weng, Ph.D.
+ 
+Jiajia Xi, Ph.D. 
+ 
+Konstantin Leskov, Ph.D.
+ 
+Liu Wang, Ph.D. 
+ 
+Zhou Fang, Ph.D. 
+ 
+Haiyan Li, Ph.D.
 
 {% include section.html %}
 
