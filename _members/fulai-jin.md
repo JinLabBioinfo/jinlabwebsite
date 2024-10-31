@@ -11,6 +11,7 @@ links:
   email: fxj45@case.edu
   orcid: 0000-0003-0025-4337
   google-scholar: Xdrfu1MAAAAJ
+  phone: (216) 368-1811
 ---
 
 **Associate Professor, Department of Genetics and Genome Sciences, School of Medicine**
