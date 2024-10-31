@@ -11,6 +11,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+For experimental (wet lab) queries, please visit [Yan Lab](https://yanlilab.com) website for more information.
+
 {%
   include button.html
   type="email"
@@ -56,18 +58,4 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html dark=true %}
 
-{% capture col1 %}
-Visit [Yan Lab](https://yanlilab.com) website for more information.
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
 For website maintenance, please email [Jiachen Sun](mailto:jxs2269@case.edu).
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
