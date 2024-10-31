@@ -3,6 +3,9 @@ name: Jiachen Sun
 image: images/members/jiachen-sun.jpg
 description: PhD Student
 role: phd
+aliases:
+ - J. Sun
+ - J Sun
 links:
   github: Enterprise-D
   email: jxs2269@case.edu
