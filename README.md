@@ -1,5 +1,5 @@
 
-# JinLabBioinfo's Website
+# Jin Lab Website
 
 Visit **[jinlabbioinfo.github.io/jinlabwebsite](https://jinlabbioinfo.github.io/jinlabwebsite)** 🚀
 
