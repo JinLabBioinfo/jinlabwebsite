@@ -4,6 +4,7 @@ image: images/members/jiachen-sun.jpg
 description: PhD Student
 role: phd
 aliases:
+ - Jiachen Sun
  - J. Sun
  - J Sun
 links:
