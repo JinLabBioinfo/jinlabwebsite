@@ -1,6 +1,6 @@
 ---
 name: Tianyi Yang
-image: images/members/tianyi-yang.jpg
+image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/tianyi-yang.jpg
 description: PhD Candidate (Genetics and Genome Sciences)
 role: phd
 aliases:
