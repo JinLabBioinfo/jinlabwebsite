@@ -1,6 +1,6 @@
 ---
 name: Fulai Jin, PhD
-image: images/members/fulai-jin.jpg
+image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/fulai-jin.jpg
 role: pi
 affiliation: Case Western Reserve University School of Medicine
 aliases:
