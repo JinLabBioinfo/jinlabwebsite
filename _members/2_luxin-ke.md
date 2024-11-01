@@ -11,7 +11,7 @@ links:
   email: lxk278@case.edu
   phone: 216-255-2165
   orcid: 0000-0001-9559-7513
-  linkedin: Luxin Ke
+  linkedin: luxin-ke-a4026379
 ---
 
 As a PhD student in Genetics and Genome Sciences, I focus on genetics
