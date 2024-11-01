@@ -1,5 +1,5 @@
 ---
-name: Peidong Gao, MS
+name: Peidong Gao, MMed
 image: images/members/peidong-gao.jpg
 description: PhD Candidate (Genetics and Genome Sciences)
 role: phd
