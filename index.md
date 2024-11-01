@@ -46,4 +46,4 @@
   text=text
 %}
 
-#### See the experimental side of us [here](https://yanlilab.com).
+<center>#### See the experimental side of us [here](https://yanlilab.com).</center>
