@@ -1,6 +1,6 @@
 ---
 name: Luxin Ke, MS
-image: images/members/luxin-ke.jpg
+image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/luxin-ke.jpg
 description: PhD Candidate (Genetics and Genome Sciences)
 role: phd
 aliases:
