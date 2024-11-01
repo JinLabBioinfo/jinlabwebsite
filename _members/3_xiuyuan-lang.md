@@ -8,5 +8,8 @@ aliases:
  - X. Lang
  - X Lang
 links:
-  email: xxl1432@case.edu
+ email: xxl1432@case.edu
+ orcid: 0009-0000-3254-6428
+ home-page: https://langxiuyuan.github.io/
+ github: https://github.com/langxiuyuan
 ---
