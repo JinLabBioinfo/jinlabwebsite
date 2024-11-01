@@ -1,6 +1,6 @@
 ---
 name: Yuntong Wang, MS
-image: images/members/yuntong-wang.jpg
+image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/yuntong-wang.jpg
 description: PhD Candidate (Genetics and Genome Sciences)
 role: phd
 aliases:
