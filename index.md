@@ -46,4 +46,6 @@
   text=text
 %}
 
-<center>#### See the experimental side of us [here](https://yanlilab.com).</center>
+{% include section.html dark=true %}
+
+**See the experimental side of us [here](https://yanlilab.com).**
