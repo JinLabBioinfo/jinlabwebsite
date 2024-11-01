@@ -34,7 +34,7 @@ Please do not hesitate to contact us regarding open positions!
 
 {%
   include figure.html
-  image="images/cwru1.jpeg"
+  image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_contact/contact_v2.jpeg"
   caption="Sunset at CWRU campus"
 %}
 
@@ -44,7 +44,7 @@ Please do not hesitate to contact us regarding open positions!
 
 {%
   include figure.html
-  image="images/cwru2.jpeg"
+  image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_contact/contact_v1.jpeg"
   caption="Sunrise on Biomedical Research Building"
 %}
 
