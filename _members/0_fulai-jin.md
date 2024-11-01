@@ -11,6 +11,7 @@ links:
   email: fxj45@case.edu
   phone: (216) 368-1811
   orcid: 0000-0003-0025-4337
+  home-page: https://case.edu/medicine/genetics/people/primary-faculty/fulai-jin
   google-scholar: Xdrfu1MAAAAJ
 ---
 
