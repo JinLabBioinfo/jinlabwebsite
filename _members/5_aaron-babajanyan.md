@@ -1,6 +1,6 @@
 ---
 name: Aaron Babajanyan
-image: images/members/aaron-babajanyan.jpg
+image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/aaron-babajanyan.jpg
 description: Undergraduate Student
 role: undergrad
 aliases:
