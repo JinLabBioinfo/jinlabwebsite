@@ -2,6 +2,11 @@
   subtitle: A Genome Browser for GWAS Variants Interpretation with Hi-C Data
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d820/4788823/3bdf544558e6/13104_2016_1947_Fig1_HTML.jpg
   link: http://hiview.case.edu
+
+- title: Beta Cell Hub
+  subtitle: A Public Resource for Pancreatic Beta Cell
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/54f9/10480445/2af8d320d3eb/41467_2023_41228_Fig1_HTML.jpg
+  link: http://hiview.case.edu/public/BetaCellHub/
   
 - title: RePACT
   subtitle: Regressing Principle components for the Assembly of Continuous Trajectory
