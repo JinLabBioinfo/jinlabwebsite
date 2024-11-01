@@ -1,6 +1,6 @@
 ---
 name: He Li, MS
-image: images/members/he-li.jpg
+image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/he-li.jpg
 description: PhD Candidate (Genetics and Genome Sciences)
 role: phd
 aliases:
