@@ -35,9 +35,9 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/gallery/lab_h1.jpg" %}
-{% include figure.html image="images/gallery/lab_h2.jpg" %}
-{% include figure.html image="images/gallery/lab_h3.jpg" %}
+{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/lab_h1.jpg" %}
+{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/lab_h2.jpg" %}
+{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/lab_h3.jpg" %}
 
 {% endcapture %}
 
@@ -46,9 +46,9 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/gallery/lab_h4.jpg" %}
-{% include figure.html image="images/gallery/lab_h5.jpg" %}
-{% include figure.html image="images/gallery/lab_h6.jpg" %}
+{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/lab_h4.jpg" %}
+{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/lab_h5.jpg" %}
+{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/lab_h6.jpg" %}
 
 {% endcapture %}
 
@@ -57,9 +57,9 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/gallery/lab_v1.jpg" %}
-{% include figure.html image="images/gallery/lab_v2.jpg" %}
-{% include figure.html image="images/gallery/lab_v3.jpg" %}
+{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/lab_v1.jpg" %}
+{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/lab_v2.jpg" %}
+{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/lab_v3.jpg" %}
 
 {% endcapture %}
 
