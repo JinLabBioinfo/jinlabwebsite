@@ -1,6 +1,6 @@
 ---
 name: Ying Xie, PhD
-image: images/members/ying-xie.jpg
+image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/ying-xie.jpg
 description: Postdoctoral Fellow
 role: postdoc
 aliases:
