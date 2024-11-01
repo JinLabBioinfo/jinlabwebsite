@@ -1,6 +1,6 @@
 ---
 name: Jinglin Zhang, PhD
-image: images/members/jinglin-zhang.jpg
+image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/jinglin-zhang.jpg
 description: Postdoctoral Fellow
 role: postdoc
 aliases:
