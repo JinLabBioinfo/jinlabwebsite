@@ -1,6 +1,6 @@
 ---
 name: Peinan Hu, MS
-image: images/members/peinan-hu.jpeg
+image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/peinan-hu.jpeg
 description: PhD Candidate (Genetics and Genome Sciences)
 role: phd
 aliases:
