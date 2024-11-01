@@ -1,6 +1,6 @@
 ---
 name: Jian Cui, PhD
-image: images/members/jian-cui.jpeg
+image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/jian-cui.jpeg
 description: Postdoctoral Fellow
 role: postdoc
 aliases:
