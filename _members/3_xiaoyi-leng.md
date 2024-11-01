@@ -1,6 +1,6 @@
 ---
 name: Xiaoyi Leng
-image: images/members/xiaoyi-leng.jpeg
+image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/xiaoyi-leng.jpeg
 description: PhD Student (Computer and Data Sciences)
 role: phd
 aliases:
