@@ -1,6 +1,6 @@
 ---
 name: Leina Liu, PhD
-image: images/members/leina-liu.jpg
+image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/leina-liu.jpg
 description: Postdoctoral Fellow
 role: postdoc
 aliases:
