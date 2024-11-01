@@ -1,6 +1,6 @@
 ---
 name: Hanxiao (Jasmine) Liu, MS
-image: images/members/jasmine-liu.jpg
+image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/jasmine-liu.jpg
 description: PhD Candidate (Genetics and Genome Sciences)
 role: phd
 aliases:
