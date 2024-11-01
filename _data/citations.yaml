@@ -955,25 +955,3 @@
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/54f9/10480445/6280e66e3cd8/41467_2023_41228_Fig6_HTML.jpg
   plugin: sources.py
   file: sources.yaml
-- id: pubmed:39070649
-  title: Genome-wide meta-analyses of cross substance use disorders in European, African,
-    and Latino ancestry populations.
-  authors:
-  - Dongbing Lai
-  - Michael Zhang
-  - Nick Green
-  - Marco Abreu
-  - Tae-Hwi Schwantes-An
-  - Clarissa Parker
-  - Shanshan Zhang
-  - Fulai Jin
-  - Anna Sun
-  - Pengyue Zhang
-  - Howard Edenberg
-  - Yunlong Liu
-  - Tatiana Foroud
-  publisher: Research square
-  date: '2024-07-16'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/39070649
-  plugin: sources.py
-  file: sources.yaml
