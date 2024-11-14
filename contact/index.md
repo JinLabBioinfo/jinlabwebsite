@@ -54,6 +54,4 @@ Please do not hesitate to contact us regarding open positions!
 
 {% include section.html dark=true %}
 
-**For experimental (wet lab) inqueries, please visit [Li Lab](https://yanlilab.com) website.**
-
 For website maintenance, please email [Jiachen Sun](mailto:jxs2269@case.edu).
