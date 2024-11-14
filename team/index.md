@@ -17,17 +17,10 @@ nav:
 ## Alumni
 - **Dylan Plummer**, PhD
 - **Wanying Xu**, PhD
-- **Sisi Lai**, PhD
-- **Anniya Gu**, PhD
 - **Shanshan Zhang**, PhD
 - **Xiaoxiao Liu**, Bioinformatician
 - **Saixian Zhang**, Visiting Graduate Student
 - **Chen Weng**, PhD
-- **Jiajia Xi**, PhD
-- **Konstantin Leskov**, PhD
-- **Liu Wang**, PhD
-- **Zhou Fang**, PhD
-- **Haiyan Li**, PhD
 
 {% include section.html %}
 
