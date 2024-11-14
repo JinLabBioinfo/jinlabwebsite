@@ -1,5 +1,5 @@
 ---
-name: Leina Lu, MD-PhD
+name: Leina Lu, MD, PhD
 image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/leina-lu.jpg
 description: Research Associate
 role: postdoc
