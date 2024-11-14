@@ -9,12 +9,6 @@ nav:
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Single-cell lineage analysis reveals extensive multimodal transcriptional control during directed beta-cell differentiation" style="rich" %}
-
-{% include section.html %}
-
 ## All
 
 {% include search-box.html %}
