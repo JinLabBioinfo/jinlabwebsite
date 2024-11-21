@@ -5,4 +5,4 @@ nav:
   tooltip: Visit Yan Li Lab @ CWRU
 ---
 
-### See the experimental side of us here[https://yanlilab.com].
+### See the experimental side of us [here](https://yanlilab.com).
