@@ -45,5 +45,3 @@
   title="Computational and Systems Biology"
   text=text
 %}
-
-{% include section.html dark=true %}
