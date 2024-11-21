@@ -47,5 +47,3 @@
 %}
 
 {% include section.html dark=true %}
-
-**See the experimental side of us [here](https://yanlilab.com).**
