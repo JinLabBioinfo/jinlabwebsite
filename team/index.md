@@ -61,9 +61,9 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/lab_1.jpg" %}
-{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/lab_2.jpg" %}
-{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/lab_3.jpg" %}
+{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/1.jpg" %}
+{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/2.jpg" %}
+{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/3.jpg" %}
 
 {% endcapture %}
 
