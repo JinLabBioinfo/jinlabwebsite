@@ -57,3 +57,14 @@ nav:
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
+
+{% capture content %}
+
+{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/lab_1.jpg" %}
+{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/lab_2.jpg" %}
+{% include figure.html image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_gallery/lab_3.jpg" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
