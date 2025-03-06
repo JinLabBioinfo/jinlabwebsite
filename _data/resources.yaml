@@ -1,18 +1,8 @@
-- title: HiView
-  subtitle: A Genome Browser for GWAS Variants Interpretation with Hi-C Data
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d820/4788823/3bdf544558e6/13104_2016_1947_Fig1_HTML.jpg
-  link: http://hiview.case.edu
-
 - title: Beta Cell Hub
   subtitle: A Public Resource for Pancreatic Beta Cell
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/54f9/10480445/2af8d320d3eb/41467_2023_41228_Fig1_HTML.jpg
   link: https://hiview10.gene.cwru.edu/public/BetaCellHubPublic/differentiation.php
 
-- title: DeepLoop
-  subtitle: Identify Enhancer-Eromoter Interactions from Low-Depth and Single-Cell Hi-C Data
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-022-01116-w/MediaObjects/41588_2022_1116_Fig3_HTML.png
-  link: http://hiview.gene.cwru.edu/public/DeepLoop/
-  
 - title: RePACT
   subtitle: Regressing Principle components for the Assembly of Continuous Trajectory
   image: https://www.cell.com/cms/10.1016/j.celrep.2019.02.043/asset/55b34ca0-b69f-47e9-bc94-b8dd38aa5ed6/main.assets/gr4_lrg.jpg
