@@ -45,7 +45,7 @@ Jin lab is actively seeking highly motivated students and postdocs with experime
 {%
   include figure.html
   image="https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_contact/contact_v2.jpeg"
-  caption="Sunset at CWRU campus"
+  caption="Sunset at CWRU Main Campus"
 %}
 
 {% endcapture %}
