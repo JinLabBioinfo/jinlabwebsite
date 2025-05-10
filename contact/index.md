@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Please do not hesitate to contact us regarding open positions!
+Jin lab is actively seeking highly motivated students and postdocs with experimental and/or computational experiences. Please email Dr. Jin to discuss possible positions or projects.
 
 {%
   include button.html
