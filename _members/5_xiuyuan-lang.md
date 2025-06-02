@@ -1,7 +1,7 @@
 ---
 name: Xiuyuan Lang
 image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/xiuyuan-lang.jpg
-description: PhD Student (Genetics and Genome Sciences)
+description: PhD Candidate (Genetics and Genome Sciences)
 role: phd
 aliases:
  - Xiuyuan Lang
