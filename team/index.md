@@ -15,7 +15,6 @@ nav:
 {% include section.html %}
 
 ## Alumni
-- **Dylan Plummer**, PhD
 - **Wanying Xu**, PhD
 - **Shanshan Zhang**, PhD
 - **Xiaoxiao Liu**, Bioinformatician
