@@ -1,9 +1,8 @@
 ---
 name: Dylan Plummer, PhD
 image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/dylan-plummer.jpg
-role: postdoc
 description: Postdoctoral Fellow
-affiliation: Case Western Reserve University School of Medicine
+role: postdoc
 aliases:
   - Dylan Plummer
   - D. Plummer
