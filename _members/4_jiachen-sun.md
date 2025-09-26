@@ -1,7 +1,7 @@
 ---
 name: Jiachen Sun
 image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/jiachen-sun.jpg
-description: PhD Student (Systems Biology and Bioinformatics)
+description: PhD Candidate (Systems Biology and Bioinformatics)
 role: phd
 aliases:
  - Jiachen Sun
