@@ -109,3 +109,7 @@
 
 - id: pubmed:37669939
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/54f9/10480445/6280e66e3cd8/41467_2023_41228_Fig6_HTML.jpg
+
+  # 2025
+- id: doi:10.1038/s41467-025-64186-4
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-64186-4/MediaObjects/41467_2025_64186_Fig4_HTML.png
