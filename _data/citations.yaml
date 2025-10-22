@@ -955,3 +955,18 @@
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/54f9/10480445/6280e66e3cd8/41467_2023_41228_Fig6_HTML.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41467-025-64186-4
+  title: A comprehensive benchmark of single-cell Hi-C embedding tools
+  authors:
+  - Dylan Plummer
+  - Xiuyuan Lang
+  - Shanshan Zhang
+  - Yan Li
+  - Jing Li
+  - Fulai Jin
+  publisher: Nature Communications
+  date: '2025-10-14'
+  link: https://doi.org/g97pxp
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-64186-4/MediaObjects/41467_2025_64186_Fig4_HTML.png
+  plugin: sources.py
+  file: sources.yaml
