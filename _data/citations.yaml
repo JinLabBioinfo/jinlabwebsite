@@ -16,7 +16,6 @@
     of America
   date: '2004-11-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/15539461
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/216b/527135/e8f42f122a64/zpq0470465220004.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:15883373
@@ -34,7 +33,6 @@
     of America
   date: '2005-05-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/15883373
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/894a/1129105/1ae50823d714/zpq0080574890004.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:16489335
@@ -50,7 +48,6 @@
   publisher: Nature methods
   date: '2006-03-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16489335
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ed56/2803036/633f7fca0701/nihms165288f1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:17450148
@@ -63,7 +60,6 @@
   publisher: Nature methods
   date: '2007-04-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/17450148
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c5a1/2771206/a0edb49c82c8/nihms-23621-f0001.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:21402921
@@ -78,7 +74,6 @@
     of America
   date: '2011-03-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/21402921
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6fbc/3069155/63d2ca59c00f/pnas.1017214108fig01.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:21925322
@@ -106,7 +101,6 @@
   publisher: Cell
   date: '2011-09-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/21925322
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1b56/3176443/609f39f385ba/nihms318420f1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:22231119
@@ -119,7 +113,6 @@
   publisher: Transcription
   date: '2011-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22231119
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9c33/3265780/73801a487abb/tran0205_0226_fig001.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:22684280
@@ -134,7 +127,6 @@
   publisher: Genome research
   date: '2012-06-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22684280
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7eec/3409256/79f903b2040e/1426fig1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:22740448
@@ -160,7 +152,6 @@
   publisher: Blood
   date: '2012-06-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22740448
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1392/3423785/51e622a5a7be/zh89991294930002.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:24141950
@@ -180,7 +171,6 @@
   publisher: Nature
   date: '2013-10-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24141950
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f229/3838900/32f1bc418b6b/nihms522588f1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:24681537
@@ -205,7 +195,6 @@
   publisher: Nature chemical biology
   date: '2014-03-30'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24681537
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnchembio.1497/MediaObjects/41589_2014_Article_BFnchembio1497_Fig1_HTML.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:25263596
@@ -231,7 +220,6 @@
   publisher: Molecular cell
   date: '2014-09-25'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25263596
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c156/4319980/66ac31c7285f/nihms632529f7.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:25486255
@@ -249,7 +237,6 @@
   publisher: PloS one
   date: '2014-12-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25486255
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e637/4259346/924ad526b0f3/pone.0114485.g005.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:26543175
@@ -268,7 +255,6 @@
   publisher: Bioinformatics (Oxford, England)
   date: '2015-11-04'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26543175
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f497/6280722/58aa9d1ba241/btv650f1p.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:26969411
@@ -288,7 +274,6 @@
   publisher: BMC research notes
   date: '2016-03-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26969411
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d820/4788823/3bdf544558e6/13104_2016_1947_Fig1_HTML.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:29700475
@@ -514,7 +499,6 @@
   publisher: Nature genetics
   date: '2018-04-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29700475
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8c9a/5934326/e0ad21ea11c2/nihms943355f4.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:30146490
@@ -540,7 +524,6 @@
   publisher: Stem cell reports
   date: '2018-08-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30146490
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3008/6135742/f7f9e7202bc6/gr2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:30545854
@@ -596,7 +579,6 @@
   publisher: Science (New York, N.Y.)
   date: '2018-12-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30545854
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f3a1/6413317/aaa75a31eee0/nihms-1015650-f0008.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:30865899
@@ -622,7 +604,6 @@
   publisher: Cell reports
   date: '2019-03-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30865899
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9adf/6573026/6a2747fa425a/nihms-1027273-f0002.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:32592681
@@ -654,7 +635,6 @@
   publisher: Molecular cell
   date: '2020-06-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32592681
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0335/7415676/f4906492c657/nihms-1604039-f0002.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:32989764
@@ -671,7 +651,6 @@
   publisher: Genetic epidemiology
   date: '2020-09-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32989764
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/550f/8570615/8b686e93d48a/nihms-1640768-f0002.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:33060578
@@ -701,7 +680,6 @@
   publisher: Nature communications
   date: '2020-10-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33060578
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/17b2/7566641/2de6f1d819a5/41467_2020_18839_Fig7_HTML.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:33257854
@@ -721,7 +699,6 @@
   publisher: Nature metabolism
   date: '2020-11-30'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33257854
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ee29/7744443/6b1f8df6382b/nihms-1640257-f0001.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:34425882
@@ -744,7 +721,6 @@
   publisher: Genome biology
   date: '2021-08-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34425882
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ecd4/8381555/a9ff0e8d5ddf/13059_2021_2450_Fig1_HTML.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:34978147
@@ -775,7 +751,6 @@
   publisher: 'Alzheimer''s & dementia : the journal of the Alzheimer''s Association'
   date: '2022-01-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34978147
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7816/9250552/13ecca2b0df8/nihms-1753640-f0003.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:35042897
@@ -803,7 +778,6 @@
   publisher: Nature communications
   date: '2022-01-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35042897
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/747f/8766474/d40fc4e6558d/41467_2022_28019_Fig2_HTML.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:35788729
@@ -839,7 +813,6 @@
   publisher: PLoS genetics
   date: '2022-07-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35788729
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2d0c/9286282/4981059c03ab/pgen.1009977.g004.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:35817982
@@ -863,7 +836,34 @@
   publisher: Nature genetics
   date: '2022-07-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35817982
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a86f/10082397/5385b941762d/nihms-1880954-f0009.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35197479
+  title: 'Author Correction: 53BP1 regulates heterochromatin through liquid phase
+    separation.'
+  authors:
+  - Lei Zhang
+  - Xinran Geng
+  - Fangfang Wang
+  - Jinshan Tang
+  - Yu Ichida
+  - Arishya Sharma
+  - Sora Jin
+  - Mingyue Chen
+  - Mingliang Tang
+  - Franklin Mayca Pozo
+  - Wenxiu Wang
+  - Janet Wang
+  - Michal Wozniak
+  - Xiaoxia Guo
+  - Masaru Miyagi
+  - Fulai Jin
+  - Yongjie Xu
+  - Xinsheng Yao
+  - Youwei Zhang
+  publisher: Nature communications
+  date: '2022-02-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35197479
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36427146
@@ -874,7 +874,6 @@
   publisher: Methods in molecular biology (Clifton, N.J.)
   date: '2023-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36427146
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3f0d/10040274/c23e62967fc6/nihms-1880219-f0001.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:36519762
@@ -894,7 +893,6 @@
   publisher: Human molecular genetics
   date: '2023-05-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36519762
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d208/10162433/96e772b6f453/ddac300f7.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:37037656
@@ -924,7 +922,6 @@
   publisher: 'Alzheimer''s & dementia : the journal of the Alzheimer''s Association'
   date: '2023-04-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37037656
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d753/10529851/3ca1022c6cc7/nihms-1914287-f0001.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:37669939
@@ -952,7 +949,88 @@
   publisher: Nature communications
   date: '2023-09-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37669939
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/54f9/10480445/6280e66e3cd8/41467_2023_41228_Fig6_HTML.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38958117
+  title: Extended genome-wide association study employing the African genome resources
+    panel identifies novel susceptibility loci for Alzheimer's disease in individuals
+    of African ancestry.
+  authors:
+  - Nicholas R Ray
+  - Brian W Kunkle
+  - Kara Hamilton-Nelson
+  - Jiji T Kurup
+  - Farid Rajabli
+  - Min Qiao
+  - Badri N Vardarajan
+  - Mehmet I Cosacak
+  - Caghan Kizil
+  - Melissa Jean-Francois
+  - Michael Cuccaro
+  - Dolly Reyes-Dumeyer
+  - Laura Cantwell
+  - Amanda Kuzma
+  - Jeffery M Vance
+  - Sujuan Gao
+  - Hugh C Hendrie
+  - Olusegun Baiyewu
+  - Adesola Ogunniyi
+  - Rufus O Akinyemi
+  - Wan-Ping Lee
+  - Eden R Martin
+  - Li-San Wang
+  - Gary W Beecham
+  - William S Bush
+  - Wanying Xu
+  - Fulai Jin
+  - Liyong Wang
+  - Lindsay A Farrer
+  - Jonathan L Haines
+  - Goldie S Byrd
+  - Gerard D Schellenberg
+  - Richard Mayeux
+  - Margaret A Pericak-Vance
+  - Christiane Reitz
+  publisher: 'Alzheimer''s & dementia : the journal of the Alzheimer''s Association'
+  date: '2024-07-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38958117
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38705393
+  title: STAG2 mutations regulate 3D genome organization, chromatin loops, and Polycomb
+    signaling in glioblastoma multiforme.
+  authors:
+  - Wanying Xu
+  - Jung-Sik Kim
+  - Tianyi Yang
+  - Alvin Ya
+  - Lisa Sadzewicz
+  - Luke Tallon
+  - Brent T Harris
+  - Jann Sarkaria
+  - Fulai Jin
+  - Todd Waldman
+  publisher: The Journal of biological chemistry
+  date: '2024-05-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38705393
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38346081
+  title: 'magpie: A power evaluation method for differential RNA methylation analysis
+    in N6-methyladenosine sequencing.'
+  authors:
+  - Zhenxing Guo
+  - Daoyu Duan
+  - Wen Tang
+  - Julia Zhu
+  - William S Bush
+  - Liangliang Zhang
+  - Xiaofeng Zhu
+  - Fulai Jin
+  - Hao Feng
+  publisher: PLoS computational biology
+  date: '2024-02-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38346081
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-025-64186-4
@@ -967,6 +1045,155 @@
   publisher: Nature Communications
   date: '2025-10-14'
   link: https://doi.org/g97pxp
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-64186-4/MediaObjects/41467_2025_64186_Fig4_HTML.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.celrep.2025.116504
+  title: Regulation of epigenetics and chromosome structure by human ORC2
+  authors:
+  - Zhangli Su
+  - Mengxue Tian
+  - Etsuko Shibata
+  - Yoshiyuki Shibata
+  - Tianyi Yang
+  - Zhenjia Wang
+  - Fulai Jin
+  - Chongzhi Zang
+  - Anindya Dutta
+  publisher: Cell Reports
+  date: '2025-10-01'
+  link: https://doi.org/g97xrr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0333128
+  title: STAG2 regulates polycomb and differentiation in urothelial precursors and
+    bladder cancer
+  authors:
+  - Youngrok Park
+  - Wanying Xu
+  - Tianyi Yang
+  - Victoria Hill
+  - Xiaoyuan He
+  - Lisa Sadzewicz
+  - Luke Tallon
+  - Jung-Sik Kim
+  - Fulai Jin
+  - Todd Waldman
+  publisher: PLOS One
+  date: '2025-10-15'
+  link: https://doi.org/g97xrs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41380-025-03294-5
+  title: Genome-wide meta-analyses of cross substance use disorders in diverse populations
+  authors:
+  - Dongbing Lai
+  - Michael Zhang
+  - Nick Green
+  - Marco Abreu
+  - Tae-Hwi Schwantes-An
+  - Clarissa C. Parker
+  - Shanshan Zhang
+  - Fulai Jin
+  - Anna Sun
+  - Pengyue Zhang
+  - Howard J. Edenberg
+  - Yunlong Liu
+  - Tatiana Foroud
+  publisher: Molecular Psychiatry
+  date: '2025-10-07'
+  link: https://doi.org/g97xrt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.70593
+  title: 'Ancestral genomic functional differences in oligodendroglia: implications
+    for Alzheimer''s disease'
+  authors:
+  - Aura M. Ramirez
+  - Luciana Bertholim Nasciben
+  - Sofia Moura
+  - Lauren Coombs
+  - Farid Rajabli
+  - Brooke A. DeRosa
+  - Patrice L. Whitehead
+  - Larry D. Adams
+  - Takiyah D. Starks
+  - Pedro R. Mena
+  - "Maryenela Illanes\u2010Manrique"
+  - Sergio Tejada
+  - Goldie S. Byrd
+  - "Allison Caban\u2010Holt"
+  - Michael L Cuccaro
+  - Katalina McInerney
+  - "Mario R. Cornejo\u2010Olivas"
+  - "Briseida E. Feliciano\u2010Astacio"
+  - Liyong Wang
+  - Maria C. Robayo
+  - Wanying Xu
+  - Fulai Jin
+  - "Margaret A. Pericak\u2010Vance"
+  - Anthony J. Griswold
+  - Juan I. Young
+  - Derek M. Dykxhoorn
+  - Jeffery M. Vance
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-09-01'
+  link: https://doi.org/g97xrv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/sciadv.adt8765
+  title: H3K79 methylation and H3K36 trimethylation synergistically regulate gene
+    expression in pluripotent stem cells
+  authors:
+  - Emmalee W. Cooke
+  - Cheng Zeng
+  - Suza Mohammad Nur
+  - Yunbo Jia
+  - Aileen Huang
+  - Jiwei Chen
+  - Peidong Gao
+  - Fei Xavier Chen
+  - Fulai Jin
+  - Kaixiang Cao
+  publisher: Science Advances
+  date: '2025-07-04'
+  link: https://doi.org/g9w3zb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11427-024-2859-1
+  title: Biomedical data and AI
+  authors:
+  - Hao Xu
+  - Shibo Zhou
+  - Zefeng Zhu
+  - Vincenzo Vitelli
+  - Liangyi Chen
+  - Ziwei Dai
+  - Ning Yang
+  - Luhua Lai
+  - Shengyong Yang
+  - Sergey Ovchinnikov
+  - Zhuoran Qiao
+  - Sirui Liu
+  - Chen Song
+  - Jianfeng Pei
+  - Han Wen
+  - Jianfeng Feng
+  - Yaoyao Zhang
+  - Zhengwei Xie
+  - Yang-Yu Liu
+  - Zhiyuan Li
+  - Fulai Jin
+  - Hao Li
+  - Mohammad Lotfollahi
+  - Xuegong Zhang
+  - Ge Yang
+  - Shihua Zhang
+  - Ge Gao
+  - Pulin Li
+  - Qi Liu
+  - Jing-Dong Jackie Han
+  publisher: Science China Life Sciences
+  date: '2025-03-14'
+  link: https://doi.org/g97xrw
   plugin: sources.py
   file: sources.yaml
