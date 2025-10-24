@@ -838,34 +838,6 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/35817982
   plugin: sources.py
   file: sources.yaml
-- id: pubmed:35197479
-  title: 'Author Correction: 53BP1 regulates heterochromatin through liquid phase
-    separation.'
-  authors:
-  - Lei Zhang
-  - Xinran Geng
-  - Fangfang Wang
-  - Jinshan Tang
-  - Yu Ichida
-  - Arishya Sharma
-  - Sora Jin
-  - Mingyue Chen
-  - Mingliang Tang
-  - Franklin Mayca Pozo
-  - Wenxiu Wang
-  - Janet Wang
-  - Michal Wozniak
-  - Xiaoxia Guo
-  - Masaru Miyagi
-  - Fulai Jin
-  - Yongjie Xu
-  - Xinsheng Yao
-  - Youwei Zhang
-  publisher: Nature communications
-  date: '2022-02-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35197479
-  plugin: sources.py
-  file: sources.yaml
 - id: pubmed:36427146
   title: 'Easy Hi-C: A Low-Input Method for Capturing Genome Organization.'
   authors:
@@ -1157,6 +1129,367 @@
   publisher: Science Advances
   date: '2025-07-04'
   link: https://doi.org/g9w3zb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-025-09096-7
+  title: The Somatic Mosaicism across Human Tissues Network
+  authors:
+  - Tim H. H. Coorens
+  - Ji Won Oh
+  - Yujin Angelina Choi
+  - Nam Seop Lim
+  - Boxun Zhao
+  - Adam Voshall
+  - Alexej Abyzov
+  - Lucinda Antonacci-Fulton
+  - Samuel Aparicio
+  - Kristin G. Ardlie
+  - Thomas J. Bell
+  - James T. Bennett
+  - Bradley E. Bernstein
+  - Thomas G. Blanchard
+  - Alan P. Boyle
+  - Jason D. Buenrostro
+  - Kathleen H. Burns
+  - Fei Chen
+  - Rui Chen
+  - Sangita Choudhury
+  - Harsha V. Doddapaneni
+  - Evan E. Eichler
+  - Gilad D. Evrony
+  - Melissa A. Faith
+  - Thomas G. Fazzio
+  - Robert S. Fulton
+  - Manuel Garber
+  - Nils Gehlenborg
+  - Soren Germer
+  - Gad Getz
+  - Richard A. Gibbs
+  - Raquel G. Hernandez
+  - Fulai Jin
+  - Jan O. Korbel
+  - Dan A. Landau
+  - Heather A. Lawson
+  - Niall J. Lennon
+  - Heng Li
+  - Yan Li
+  - Po-Ru Loh
+  - Gabor Marth
+  - Michael J. McConnell
+  - Ryan E. Mills
+  - Stephen B. Montgomery
+  - Pradeep Natarajan
+  - Peter J. Park
+  - Rahul Satija
+  - Fritz J. Sedlazeck
+  - Diane D. Shao
+  - Hui Shen
+  - Andrew B. Stergachis
+  - Hunter R. Underhill
+  - Alexander E. Urban
+  - Melissa W. VonDran
+  - Christopher A. Walsh
+  - Ting Wang
+  - Tao P. Wu
+  - Chenghang Zong
+  - Eunjung Alice Lee
+  - Flora M. Vaccarino
+  - Richard S. Conroy
+  - Brionna Y. Hair
+  - Walter J. Koroshetz
+  - Roger Little
+  - Amy C. Lossie
+  - Jill A. Morris
+  - Dena C. Procaccini
+  - Wendy Wang
+  - Casey Andrews
+  - Sarah Cody
+  - Milinn Kremitzki
+  - Daofeng Li
+  - Tina Lindsay
+  - Wenjin Zhang
+  - Valerie J. Estela-Pro
+  - Kayla Giancarlo
+  - Melissa Grimm
+  - Azra Hasan
+  - M. Kathryn Leonard
+  - Phoebe McDermott
+  - Mary Pfeiffer
+  - Isabel Sleeman
+  - Stephanie Bohaczuk
+  - Colleen P. Davis
+  - Christian D. Frazar
+  - Kendra Hoekzema
+  - Meng-Fan Huang
+  - Caitlin Jacques
+  - Dana M. Jensen
+  - J. Thomas Kolar
+  - Youngjun Kwon
+  - Kelsey Loy
+  - Yizi Mao
+  - Min-Hwan Sohn
+  - Katherine M. Munson
+  - Shane Neph
+  - Jeffrey Ou
+  - Nancy L. Parmalee
+  - Meranda M. Pham
+  - Jane Ranchalis
+  - Luyao Ren
+  - "Adriana E. Sede\xF1o-Cort\xE9s"
+  - Joshua D. Smith
+  - Melanie Sorensen
+  - Lila Sutherlin
+  - Mitchell R. Vollger
+  - Chia-Lin Wei
+  - Jeffrey M. Weiss
+  - Christina Zakarian
+  - Natalie Y. T. Au
+  - Amy Leonardson
+  - Jiadong Lin
+  - Taralynn Mack
+  - Sean R. McGee
+  - Anna Minkina
+  - Patrick M. Nielsen
+  - Chris Oliveira
+  - Erica Ryke
+  - Tristan Shaffer
+  - Elliott G. Swanson
+  - Elizabeth G. Atkinson
+  - Sravya Bhamidipati
+  - Hsu Chao
+  - Christopher M. Grochowski
+  - Harsha V. Doddapaneni
+  - Divya Kalra
+  - Ziad Khan
+  - Kavya Kottapalli
+  - Marie-Claude Gingras
+  - Walker Hale
+  - Heer Mehta
+  - Donna M. Muzny
+  - Muchun Niu
+  - Luis F. Paulin
+  - Jeffrey Rogers
+  - Evette Scott
+  - Fritz J. Sedlazeck
+  - Kimberly Walker
+  - Tao Wu
+  - Kristin G. Ardlie
+  - Viktor Adalsteinsson
+  - Lisa Anderson
+  - Carrie Cibulskis
+  - "Laura Dom\xE8nech"
+  - Kiran Garimella
+  - Whitney Hornsby
+  - Steve Huang
+  - Satoshi Koyama
+  - Niall J. Lennon
+  - Tetsushi Nakao
+  - Azeet Narayan
+  - Evin Padhi
+  - Constantijn Scharlee
+  - Md Mesbah Uddin
+  - Liying Xue
+  - Zhi Yu
+  - Shadi Zaheri
+  - Ruolin Liu
+  - Ning Stella Li
+  - Hang Su
+  - Derek Albracht
+  - Eddie Belter
+  - Emma Casey
+  - Justin Chen
+  - Yuchen Cheng
+  - Shihua Dong
+  - Qichen Fu
+  - Robert Fulton
+  - John Garza
+  - H. Josh Jang
+  - Sheng Chih Jin
+  - Benjamin K. Johnson
+  - Nahyun Kong
+  - Daofeng Li
+  - Zefan Li
+  - Shane Liu
+  - Juan F. Macias-Velasco
+  - Elvisa Mehinovic
+  - Benpeng Miao
+  - Theron Palmer
+  - Purva Patel
+  - Mary F. Majewski
+  - Daniel C. Rohrer
+  - Andrew Ruttenberg
+  - Ayush Semwal
+  - Jiawei Shen
+  - Zitian Tang
+  - Chad Tomlinson
+  - Wenjin Zhang
+  - Zilan Xin
+  - Christina Missler
+  - Brianne E. Livermore
+  - Jade E. B. Carter
+  - William Driscoll
+  - Uday S. Evani
+  - Heather Geiger
+  - M. Tausif Hasan
+  - Manisha Kher
+  - Rajeeva Musunuri
+  - Giuseppe Narzisi
+  - Nicolas Robine
+  - Alexi Runnels
+  - Mingyun Bae
+  - Michele Berselli
+  - Ann Caplin
+  - Hye-Jung Elizabeth Chun
+  - Niklas L. Engel
+  - William C. Feng
+  - Yan Gao
+  - Dominik Glodzik
+  - Yoo-Jin Jiny Ha
+  - Hu Jin
+  - "Sehi L\u2019Yi"
+  - Lovelace J. Luquette
+  - Maximilian Marin
+  - Julia Markowski
+  - Dominika Maziec
+  - Huang Neng
+  - Sarah Nicholson
+  - Junseok Park
+  - Qin Qian
+  - Han Qu
+  - Douglas Rioux
+  - William Ronchetti
+  - Andrew Schroeder
+  - Corinne E. Sexton
+  - Yichen Si
+  - Kar-Tong Tan
+  - David Tang
+  - Alexander D. Veit
+  - Vinayak V. Viswanadham
+  - Suenghyun Wang
+  - Kyung Ah Woo
+  - Xi Zeng
+  - Yuwei Zhang
+  - Yifan Zhao
+  - Ying Zhou
+  - Michail Andreopoulos
+  - Shannon Ehmsen
+  - Cesar Ferreyra-Mansilla
+  - Clara TaeHee Kim
+  - David Michaels
+  - Bianca Morris
+  - Brandt A. Bessell
+  - Ingrid Flashpohler
+  - Steve Losh
+  - Torrin L. McDonald
+  - Camille Mumm
+  - Jessica A. Switzenberg
+  - Jinhao Wang
+  - Weichen Zhou
+  - Guanlan Dong
+  - Nazia Hilal
+  - Se-Young Jo
+  - Shayna L. Mallett
+  - Monica Devi Manam
+  - Shulin Mao
+  - Christopher Walsh
+  - Sijing Zhao
+  - Yiling Elaine Huang
+  - Abhiram Natu
+  - Reenal Pattni
+  - Carolin Purman
+  - Bo Zhou
+  - Xiaowei Zhu
+  - Jiayi Luo
+  - Yichi Niu
+  - Rohan Thakur
+  - David A. Weitz
+  - Yang Zhang
+  - Yilei Fu
+  - Michal B. Izydorczyk
+  - Luis F. Paulin
+  - Xiaomei Zhan
+  - Xinchang Zheng
+  - Geon Hue Bae
+  - Taejeong Bae
+  - Areum Cho
+  - June Hyug Choi
+  - Hyungbin Chun
+  - Mrunal Dehankar
+  - Yeongjun Jang
+  - Seok-Won Jeong
+  - Min Ji
+  - Mee Sook Jun
+  - Su Rim Kim
+  - Seong Gyu Kwon
+  - Soung-Hoon Lee
+  - Nanda Maya Mali
+  - Arijit Panda
+  - Jung Min Park
+  - JaeEun Shin
+  - Milovan Suvakov
+  - Gabor T. Marth
+  - Brad Demarest
+  - Stephanie Gardiner
+  - Stephanie J. Georges
+  - Yingqi Zhang
+  - Sammantha Avaylon
+  - Alexandre Pellan Cheng
+  - Wei-Yu Chi
+  - "Mariela Cort\xE9s-L\xF3pez"
+  - "Andrew R. D\u2019Avino"
+  - Husain Danish
+  - Elliot Eton
+  - Foteini Fotopoulo
+  - Saravanan Ganesan
+  - Yiyun Lin
+  - Qing Luo
+  - Levan Mekerishvili
+  - Joe Pelt
+  - Catherine Potenski
+  - Tamara Prieto
+  - Jake Qiu
+  - Ivan Raimondi
+  - Mandeep Singh
+  - Dennis Yuan
+  - John Zinno
+  - Benjamin Costa
+  - Jonathan Evan Shoag
+  - Jimin Tan
+  - Aristotelis Tsirigos
+  - Nisrine T. Jabara
+  - "Marta Gro\u0144ska-P\u0119ski"
+  - Emre Caglayan
+  - Hayley Cline
+  - Niklas L. Engel
+  - Shelbi E. Gill
+  - Robert Sean Hill
+  - Andrea J. Kriz
+  - Julia Markowski
+  - Alisa Mo
+  - Daniel Snellings
+  - Justin S. Becker
+  - Aidan H. Burn
+  - Wen-Chih Cheng
+  - Jennifer A. Karlow
+  - Cheuk-Ting Law
+  - Shayna L. Mallet
+  - Carlos Mendez-Dorantes
+  - Khue H. Nguyen
+  - Adam Voshall
+  - Boxun Zhao
+  - Benno Orr
+  - Andrew J. C. Russell
+  - He Li
+  - Yan Li
+  - Leina Lu
+  - Xiaofeng Zhu
+  - Trishita Basak
+  - Azita Ghodssi
+  - Katrina Newcomer
+  - Yuqing Wang
+  publisher: Nature
+  date: '2025-07-02'
+  link: https://doi.org/pt7p
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s11427-024-2859-1
