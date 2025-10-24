@@ -1,7 +1,6 @@
 ---
 ---
 
-$thumb-size: 180px;
 $wrap: 800px;
 
 .citation-container {
@@ -80,9 +79,3 @@ $wrap: 800px;
   .citation {
     flex-direction: column;
   }
-
-  .citation-image {
-    width: unset;
-    height: $thumb-size;
-  }
-}
