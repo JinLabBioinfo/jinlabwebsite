@@ -1530,3 +1530,33 @@
   link: https://doi.org/g97xrw
   plugin: sources.py
   file: sources.yaml
+- title: Proinsulin regulators identified with CRISPR screen and in vivo mouse QTL
+    mapping
+  authors:
+  - Sisi Lai
+  - Mark P. Keller
+  - Jinglin Zhang
+  - Zhou Fang
+  - Ying Xie
+  - Chen Weng
+  - Saixian Zhang
+  - Shanshan Zhang
+  - Peidong Gao
+  - Luxin Ke
+  - Yuntong Wang
+  - Kelly A. Mitok
+  - Lauren Clark
+  - Kathryn L. Schueler
+  - Hanxiao Liu
+  - Betul Hatipoglu
+  - Maria Hatzoglou
+  - Yuanyuan Chen
+  - Anath Shalev
+  - Fulai Jin
+  - Alan D. Attie
+  - Yan Li
+  publisher: Nature Communications
+  date: '2026-04-13'
+  link: www.nature.com/articles/s41467-026-71726-z
+  plugin: sources.py
+  file: sources.yaml
